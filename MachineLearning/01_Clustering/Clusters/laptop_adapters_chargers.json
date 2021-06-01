@@ -1,0 +1,1320 @@
+[
+    {
+        "uniq_id": "81ebf7c644230b8736b62307564da4e7",
+        "crawl_timestamp": "2020-02-06 18:43:54 +0000",
+        "asin": "B07NWJNCPN",
+        "product_url": "https://www.amazon.in/SellZone-Adapter-Compatible-Aspire-6930G-944G64MN/dp/B07NWJNCPN/",
+        "product_name": "SellZone 90W Laptop Adapter/Charger Compatible for Acer Aspire 6930G-944G64MN 19V 4.74A 5.5 x 1.7 MM",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/418VW3br1cL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/418VW3br1cL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61AV3a17-HL._SL1150_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "SellZone",
+        "sales_price": 989.0,
+        "discount_percentage": "51%",
+        "weight": "349 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #13,22,701"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "SellZone 90W Laptop Adapter/Charger Compatible for Acer Aspire 6930G-944G64MN 19V 4.74A 5.5 x 1.7 MM,SellZone,Aspire 6930G-944G64MN",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #13,22,701"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "Aspire 6930G-944G64MN",
+            "Item_Weight": "349 g",
+            "Package_Dimensions": "18 x 14 x 4 cm",
+            "Item_model_number": "Aspire 6930G-944G64MN",
+            "Wattage": "90 Watts"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "e9c06e247b85c2fd174112d564d7c497",
+        "crawl_timestamp": "2020-02-06 16:30:27 +0000",
+        "asin": "B01EYPRLQM",
+        "product_url": "https://www.amazon.in/DELL-ORIGINAL-LAPTOP-CHARGER-INSPIRON/dp/B01EYPRLQM/",
+        "product_name": "DELL ORIGINAL LAPTOP CHARGER FOR INSPIRON 3520",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51m72CcJ%2BKL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41DlosqdsLL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51m72CcJ%2BKL.jpg|https://images-na.ssl-images-amazon.com/images/I/41DlosqdsLL.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "ElectronicsMarvel",
+        "seller_id": "ARBEPCMT3FADX",
+        "brand": "Dell",
+        "sales_price": 1495.0,
+        "discount_percentage": "50%",
+        "weight": "109 grams",
+        "rating": 3.0,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #57,187"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "DELL ORIGINAL LAPTOP CHARGER FOR INSPIRON 3520,Dell,DL5333",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #57,187"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Dell Inspiron 15 (3520) 65W Laptop Adapter/Charger | DELL AK-ND-05 65W Laptop Adapter without power Cord (Black) | Dell Power Cable & Laptop Adapter Charger For 65W 19.5V 3.34A Inspiron 15 3452, 3520, 3521, 3540, 3541, 3543 | Dell Inspiron 15 (3520) 65W Laptop Adapter/Charger | DELL AK-ND-05 65W Laptop Adapter without power Cord (Black) | Dell Power Cable & Laptop Adapter Charger For 65W 19.5V 3.34A Inspiron 15 3452, 3520, 3521, 3540, 3541, 3543",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Colour": "Black",
+            "Item_Height": "25 Millimeters",
+            "Item_Width": "45 Millimeters",
+            "Item_Weight": "109 g",
+            "Product_Dimensions": "10 x 4.5 x 2.5 cm",
+            "Item_model_number": "DL5333",
+            "Wattage": "65 Watts",
+            "Included_Components": "Laptop Adapter"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "ada7f1df55ec2ffd0886882d2ade621d",
+        "crawl_timestamp": "2020-02-06 16:29:09 +0000",
+        "asin": "B01FG91JBS",
+        "product_url": "https://www.amazon.in/DELL-ORIGINAL-LAPTOP-CHARGER-INSPIRON/dp/B01FG91JBS/",
+        "product_name": "DELL ORIGINAL LAPTOP CHARGER FOR INSPIRON 5548",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51D1FqBgw1L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41m9-vNrhvL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51D1FqBgw1L.jpg|https://images-na.ssl-images-amazon.com/images/I/41m9-vNrhvL.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "TPS Technologies",
+        "seller_id": "AJRK4JF48YXA",
+        "brand": "Dell",
+        "sales_price": 1499.0,
+        "discount_percentage": "50%",
+        "weight": "109 grams",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #10,96,967"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "DELL ORIGINAL LAPTOP CHARGER FOR INSPIRON 5548,Dell,DCKL3473",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #10,96,967"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Model": "DCKL3473",
+            "Item_Weight": "109 g",
+            "Product_Dimensions": "10 x 4.5 x 2.5 cm",
+            "Item_model_number": "DCKL3473",
+            "Compatible_Devices": "DELL Laptop",
+            "Included_Components": "Laptop Adapter",
+            "Wattage": "65 Watts",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "3ec12c5d6a1a5d455801f184d1e089f4",
+        "crawl_timestamp": "2020-02-07 07:53:18 +0000",
+        "asin": "B071XYC6KL",
+        "product_url": "https://www.amazon.in/4D-Laptop-Adapter-Netbook-Power/dp/B071XYC6KL/",
+        "product_name": "4D Laptop Adapter for, ASUS Netbook AC and Power Cord",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/31djMFJ1-RL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41FJnbi-YqL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31ZK3ffgZgL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/31djMFJ1-RL.jpg|https://images-na.ssl-images-amazon.com/images/I/41FJnbi-YqL.jpg|https://images-na.ssl-images-amazon.com/images/I/31ZK3ffgZgL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/71wnoZsPs-L._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/814Mix574rL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71Ffknr0jKL._SL1500_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "4D INDIATEQ LIMITED",
+        "seller_id": "A28SQST3HLD23G",
+        "brand": "4 D (LABEL)",
+        "sales_price": 699.0,
+        "discount_percentage": "53%",
+        "weight": "299 g",
+        "rating": 3.4,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #61,871"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "4D Laptop Adapter for, ASUS Netbook AC and Power Cord,4d,30W 19V 1.58A",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #61,871"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Asus U90W-01 90W Laptop Adapter/Charger Without Power Cord for Select Models of ASUS (19 V, 1.5 A, 4.0-4 mm x 1.2mm Diameter, 4.5-2.9mm x 4.5mm Diameter, 5.5-2.5mm x 5.5mm, 6.0-3.5mm x 6mm Diameter",
+        "technical_details__k_v_pairs": {
+            "Brand": "4 D (LABEL)",
+            "Colour": "black",
+            "Item_Weight": "299 g",
+            "Package_Dimensions": "12 x 12 x 5 cm",
+            "Item_model_number": "30W 19V 1.58A"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "2b327f8d418ebdbde088c7d512ae2605",
+        "crawl_timestamp": "2020-02-07 02:16:28 +0000",
+        "asin": "B073STJFMF",
+        "product_url": "https://www.amazon.in/Neon-Keyboard-Inspiron-15-6-inch-laptop/dp/B073STJFMF/",
+        "product_name": "Neon Keyboard Skin for Dell Inspiron 15 3000, 5000, (3542), (3543), (3552), (3558), (3567), (3568), (5555), (5558), (5559), (5577), (7559), (5755), (5758), 15.6-inch laptop (Candy Black)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41MPlfVDYOL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41iA2Yh99-L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51aLJ-LqSHL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41MPlfVDYOL.jpg|https://images-na.ssl-images-amazon.com/images/I/41iA2Yh99-L.jpg|https://images-na.ssl-images-amazon.com/images/I/51aLJ-LqSHL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/71AIkPjceXL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/816IGbBPeZL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71xAFlKbKPL._SL1500_.jpg",
+        "browsenode": 1375296031,
+        "seller_name": "VRAJESH\u00ae",
+        "seller_id": "AJVTW3CWBFM8D",
+        "brand": "neon",
+        "sales_price": 350.0,
+        "discount_percentage": "30%",
+        "weight": "18.1 g",
+        "rating": 4.7,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #21,009"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Neon Keyboard Skin for Dell Inspiron 15 3000, 5000, (3542), (3543), (3552), (3558), (3567), (3568), (5555), (5558), (5559), (5577), (7559), (5755), (5758), 15.6-inch laptop (Candy Black),Neon Exim,DELLKSCBLK17",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #21,009"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Neon Keyboard Skin for Dell Inspiron (3543), (3552), (3558), (3567), (3568), (5558), (5559), (7559), Laptop (Black) | Neon Keyboard Protector Silicone Skin for Dell Inspiron 5000 5558 15.6-inch Laptop (White) | Neon Keyboard Skin for Dell Inspiron 15 3000, 5000, (3542), (3543), (3552), (3558), (3567), (3568), (5555), (5558), (5559), (5577), (7559), (5755), (5758), 15.6-inch laptop (Pink) | Saco Chiclet Keyboard Skin for HP Notebook 15- bs146tu 15.6 inch Laptop\u00a0 - Black with Clear | Plastron Keyboard Cover for MacBook Pro 13 Inch, 15 Inch (with or without Retina Display, 2015 or Older Version) MacBook Air 13 Inch, Black | Saco Chiclet Keyboard Skin for Dell Inspiron 15-3567 15.6-inch Laptop (Black with Clear) | MARKLIF Wireless Bluetooth Shutter Remote Controller (Random Colour) | Saco Chiclet Keyboard Skin for Dell Inspiron 15-3567 15.6-inch Laptop (Black with Clear) | Neon Keyboard Protector Silicone Skin for Dell Inspiron 5000 5558 15.6-inch Laptop (White) | Neon Keyboard Skin for Dell Inspiron (3543), (3552), (3558), (3567), (3568), (5558), (5559), (7559), Laptop (Black) | Neon Keyboard Protector Silicone Skin Cover for Dell Inspiron 5000 5558 15.6-inch Laptop, Candy Black | Saco Ultra Clear Glossy HD Screen Guard Scratch Protector for Dell Inspiron 15 3000 3567 15.6-inch Laptop",
+        "technical_details__k_v_pairs": {
+            "Brand": "Neon",
+            "Colour": "Candy Black",
+            "Item_Height": "10 Centimeters",
+            "Item_Width": "4 Millimeters",
+            "Item_Weight": "18.1 g",
+            "Product_Dimensions": "35 x 0.4 x 10 cm",
+            "Item_model_number": "DELLKSCBLK17",
+            "Included_Components": "1 x Keyboard Skin"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "e5e870e7c794d7a05fe7992c1c5c6c40",
+        "crawl_timestamp": "2020-02-06 19:14:48 +0000",
+        "asin": "B07DTCG4TS",
+        "product_url": "https://www.amazon.in/Lapgrade-Battery-Dell-Inspiron-5420/dp/B07DTCG4TS/",
+        "product_name": "Lapgrade Compatible Laptop Battery for Dell Inspiron 5420 5520 Series (Black)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41PTyibcO4L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41lw1-ZibrL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51fbnv4-BVL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31hrXecSqRL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31KG3D1bHKL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/417PwdA2x-L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41PTyibcO4L.jpg|https://images-na.ssl-images-amazon.com/images/I/41lw1-ZibrL.jpg|https://images-na.ssl-images-amazon.com/images/I/51fbnv4-BVL.jpg|https://images-na.ssl-images-amazon.com/images/I/31hrXecSqRL.jpg|https://images-na.ssl-images-amazon.com/images/I/31KG3D1bHKL.jpg|https://images-na.ssl-images-amazon.com/images/I/417PwdA2x-L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61Nyj46i1GL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51G9sSech-L._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/61YNpkcsc1L._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51VW7KMvlAL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/514ICBUwK1L._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51kUWvCIcML._SL1000_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "spinfotech",
+        "seller_id": "A2QFGJBWFSGOIU",
+        "brand": "LAPGRADE",
+        "sales_price": 1949.0,
+        "discount_percentage": "25%",
+        "weight": "481 g",
+        "rating": 3.0,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #37,489"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "Lapgrade Compatible Laptop Battery for Dell Inspiron 5420 5520 Series (Black),Rx Solutions,4399DE5420",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #37,489"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "DELL 911MD 6-Cell Laptop Battery for Inspiron and Vostro (Black) | Dell 6 Cell Battery for Inspiron 17R 4720 5720 7720 17R Se 4720 Se 5720 17R Se 7720 17R Turbo Inspiron 4720 | Dell Inspiron 14R 5420 7420 15R 5520 7520 6 Cell Battery | DELL 911MD 6-Cell Laptop Battery for Inspiron and Vostro (Black) | Dell 6 Cell Battery for Inspiron 17R 4720 5720 7720 17R Se 4720 Se 5720 17R Se 7720 17R Turbo Inspiron 4720",
+        "technical_details__k_v_pairs": {
+            "Brand": "LAPGRADE",
+            "Colour": "Black",
+            "Item_Height": "5 Centimeters",
+            "Item_Width": "12 Centimeters",
+            "Item_Weight": "481 g",
+            "Product_Dimensions": "25 x 12 x 5 cm",
+            "Batteries_": "1 Lithium ion batteries required. (included)",
+            "Item_model_number": "4399DE5420",
+            "Lithium_Battery_Energy_Content": "44 Watt Hours",
+            "Lithium_battery_Weight": "320 Grams",
+            "Number_of_Lithium_Ion_Cells": "6",
+            "Included_Components": "Battery"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "e09d5010d6161515884640ca553850b2",
+        "crawl_timestamp": "2020-02-07 07:41:58 +0000",
+        "asin": "B01JRNQM66",
+        "product_url": "https://www.amazon.in/Backpack-DELL-Lenovo-Acer-Laptops/dp/B01JRNQM66/",
+        "product_name": "Backpack For HP/DELL/Lenovo/Acer Laptops",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41WZ1J%2BasnL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51MvA5PYiFL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41fjhjdK60L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41Rmw118l%2BL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41WZ1J%2BasnL.jpg|https://images-na.ssl-images-amazon.com/images/I/51MvA5PYiFL.jpg|https://images-na.ssl-images-amazon.com/images/I/41fjhjdK60L.jpg|https://images-na.ssl-images-amazon.com/images/I/41Rmw118l%2BL.jpg",
+        "browsenode": 1375464031,
+        "seller_name": "AASHISH IMPEX",
+        "seller_id": "ALOLTR47Y5JSM",
+        "brand": "BEST DEAL",
+        "sales_price": 449.0,
+        "weight": "349 Grams",
+        "rating": 3.0,
+        "sales_rank_in_parent_category": {
+            "BagsWalletsandLuggage": "#66,970"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Backpack For HP/DELL/Lenovo/Acer Laptops",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "BagsWalletsandLuggage": "#66,970",
+            "LaptopBackpacks": "#5501"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "sales_rank_in_child_category": {
+            "LaptopBackpacks": "#5501"
+        },
+        "product_details__k_v_pairs": {
+            "Product_Dimensions": "30.5 x 24.1 x 7.6 cm ; 349 g",
+            "Item_part_number": "LPBG013",
+            "ASIN": "B01JRNQM66",
+            "Date_first_available_at_Amazon_in": "5 August 2016",
+            "Customer_Reviews": "3.0 out of 5 stars 2 customer reviews",
+            "Amazon_Bestsellers_Rank": "#66,970 in Bags, Wallets and Luggage (See Top 100 in Bags, Wallets and Luggage) #5501 in\u00a0Laptop Backpacks"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "ef19b4fde47c9562cee53b08e5523483",
+        "crawl_timestamp": "2020-02-07 00:02:19 +0000",
+        "asin": "B08466LYBP",
+        "product_url": "https://www.amazon.in/Adapter-dell-Laptop-All-120W/dp/B08466LYBP/",
+        "product_name": "Adapter for dell Laptop and All in one,120W",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/416YiCNNFCL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41%2BLUE5N31L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/416YiCNNFCL.jpg|https://images-na.ssl-images-amazon.com/images/I/41%2BLUE5N31L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61lSBt3VCtL._SL1475_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "creativecomp",
+        "seller_id": "A18TEHGEX6F9HG",
+        "brand": "Generic",
+        "sales_price": 1499.0,
+        "discount_percentage": "25%",
+        "weight": "999999999",
+        "rating": 5.0,
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Adapter for dell Laptop and All in one,120W,CreativeComp",
+        "amazon_prime__y_or_n": "N",
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Generic"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "37be4c13ad819be0250837fb6d7bec9e",
+        "crawl_timestamp": "2020-02-07 08:13:04 +0000",
+        "asin": "B06Y691T1K",
+        "product_url": "https://www.amazon.in/18-5v-3-5a-PA-1650-02HC-391172-001-PA-1650-02H/dp/B06Y691T1K/",
+        "product_name": "4d laptop Adapter For hp 65w Hp Pavilion 18.5v 3.5a PPP009L PA-1650-02HC 391172-001 ED494AA 384019-001 380467-001 PA-1650-02H DL606A#ABA 380467-003 319860-001 380467-003 (4.8x1.7mm Yellow Tip) Laptop Adapter + power cord  ",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/31NTNbeB4DL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31bx16WsjXL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31lvEY2ZqpL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31XQHC6QUhL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31GgJyyHNRL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/31NTNbeB4DL.jpg|https://images-na.ssl-images-amazon.com/images/I/31bx16WsjXL.jpg|https://images-na.ssl-images-amazon.com/images/I/31lvEY2ZqpL.jpg|https://images-na.ssl-images-amazon.com/images/I/31XQHC6QUhL.jpg|https://images-na.ssl-images-amazon.com/images/I/31GgJyyHNRL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/71xijClbGnL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71AXaZTBvLL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61uAxhmhMzL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71cd2qN%2BRaL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71qartoC57L._SL1500_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "4D INDIATEQ LIMITED",
+        "seller_id": "A28SQST3HLD23G",
+        "brand": "4 D (LABEL)",
+        "sales_price": 599.0,
+        "discount_percentage": "60%",
+        "weight": "\u2014",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #51,540"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "4d laptop Adapter For hp 65w Hp Pavilion 18.5v 3.5a PPP009L PA-1650-02HC 391172-001 ED494AA 384019-001 380467-001 PA-1650-02H DL606A#ABA 380467-003 319860-001 380467-003 (4.8x1.7mm Yellow Tip) Laptop Adapter + power cord  ,4d Indiateq Ltd,18.5v 3.5a",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #51,540"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Gizga Essentials Laptop Power Cable Cord- 3 Pin Adapter Isi Certified(1 Meter/3.3 Feet) | HP Laptop Adapter Charger 65W 19. 5V 3. 33A Bluetip for Hp 15-f0xx, Split 13-f0xx X2, Envy 15-q0xx, Pavilion 11-n0xx X360 | HP 65W 7.4mm Adapter Charger for Laptops and Notebooks (Without Power Cord)",
+        "technical_details__k_v_pairs": {
+            "Brand": "4 D (LABEL)",
+            "Colour": "Black",
+            "Item_Weight": "467 g",
+            "Package_Dimensions": "18 x 13 x 5 cm",
+            "Item_model_number": "18.5v 3.5a",
+            "Wattage": "65 Watts"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "537a39b2a6e4450a1b77e74d591c3e3f",
+        "crawl_timestamp": "2020-02-06 17:28:58 +0000",
+        "asin": "B07MLJXDX5",
+        "product_url": "https://www.amazon.in/Renewed-Original-LA65NS2-01-Adapter-Inspiron/dp/B07MLJXDX5/",
+        "product_name": "(Renewed) DELL Original MGJN9 LA65NS2-01 PA-12 65W Laptop Adapter For Inspiron",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51QSupodF9L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51NlkwizUuL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41H0s4XHt9L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51QSupodF9L.jpg|https://images-na.ssl-images-amazon.com/images/I/51NlkwizUuL.jpg|https://images-na.ssl-images-amazon.com/images/I/41H0s4XHt9L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61anome0%2BbL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/61cBo353ZQL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/61D2uCMmapL._SL1024_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "Classic Network and Computers",
+        "seller_id": "A24HFVMTJUGLB2",
+        "brand": "Amazon Renewed",
+        "sales_price": 1050.0,
+        "discount_percentage": "30%",
+        "weight": "\u2014",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #8,31,130"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "(Renewed) DELL Original MGJN9 LA65NS2-01 PA-12 65W Laptop Adapter For Inspiron,Dell Computers,LappyAdap026-cr",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #8,31,130"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Model": "LappyAdap026-cr",
+            "Item_Weight": "499 g",
+            "Package_Dimensions": "10 x 7 x 3 cm",
+            "Item_model_number": "LappyAdap026-cr",
+            "Included_Components": "1 Adapter",
+            "Wattage": "65 Watts",
+            "Batteries_Required": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "15e6a59d7aac8ed7652b327d89386e5b",
+        "crawl_timestamp": "2020-02-07 02:13:47 +0000",
+        "asin": "B00AA7Q4KS",
+        "product_url": "https://www.amazon.in/911MD-Original-Battery-Inspiron-Laptops/dp/B00AA7Q4KS/",
+        "product_name": "DELL 911MD 6-Cell Laptop Battery for Inspiron and Vostro (Black)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/31tbAKUiU9L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/31tbAKUiU9L.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "MS Tech 2020",
+        "seller_id": "A1QQ8NYMLBEQN",
+        "brand": "Dell",
+        "sales_price": 2560.0,
+        "discount_percentage": "58%",
+        "weight": "399 g",
+        "rating": 3.7,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #6,327"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "DELL 911MD 6-Cell Laptop Battery for Inspiron and Vostro (Black),Dell Computers,911MD,B00AA7Q4KS",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #6,327"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Dell 6 Cell Battery for Inspiron 17R 4720 5720 7720 17R Se 4720 Se 5720 17R Se 7720 17R Turbo Inspiron 4720 | Dell Orignal Battery Latitude E5420 E5520 E6420 E6520 Laptop Battery - Dell Part T54FJ 6 Cell | DELL E6420 Latitude Laptop Battery (Black) | Dell inspiron Series 6cell Battery Black | Dell Inspiron 14R 5420 7420 15R 5520 7520 6 Cell Battery | Dell Vostro A840 A860 6Cell Battery F286H/F287H | Dell Original Charger For INSPIRON 15 5520 90 W Adaptor | DELL DCKL3389 Laptop Charger for Inspiron 15r 5520 (Black) | DELL AK-ND-05 65W Laptop Adapter without power Cord (Black) | Samsung Original 16GB Kit (2 X 8GB) 204-Pin SODIMM, DDR3 PC3L-12800, 1600MHz RAM Memory Module For Laptops | Dell INSPIRON 15R SE 7520 90W Laptop Adaptor/Charger | DELL Laptop Charger for INSPIRON 5452",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Colour": "Black",
+            "Item_Height": "9.3 Centimeters",
+            "Item_Width": "26.9 Centimeters",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "48.3 x 26.9 x 9.3 cm",
+            "Batteries_": "2 Lithium ion batteries required.",
+            "Item_model_number": "911MD",
+            "Processor_Brand": "Dell",
+            "Voltage": "10.8 Volts",
+            "Lithium_Battery_Energy_Content": "4400 milliamp_hours",
+            "Lithium_battery_Weight": "150 Grams",
+            "Number_of_Lithium_Ion_Cells": "6",
+            "Included_Components": "1 Laptop Battery"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "13f5500b24baa29d815c144be4edc1df",
+        "crawl_timestamp": "2020-02-06 16:29:20 +0000",
+        "asin": "B01CN0XK60",
+        "product_url": "https://www.amazon.in/P55F002-19-5V-2-31A-Laptop-Charger/dp/B01CN0XK60/",
+        "product_name": "DELL OEM P55F002 45w 19.5V 2.31A Laptop Charger",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41JiOjlfVJL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51qPL9ZdMJL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31tyXUFuZVL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41ABPzN7HnL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41JiOjlfVJL.jpg|https://images-na.ssl-images-amazon.com/images/I/51qPL9ZdMJL.jpg|https://images-na.ssl-images-amazon.com/images/I/31tyXUFuZVL.jpg|https://images-na.ssl-images-amazon.com/images/I/41ABPzN7HnL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/71OQhe3WDdL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/51pVhhfEBIL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/71LtsDbkSRL._SL1500_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "TPS Technologies",
+        "seller_id": "AJRK4JF48YXA",
+        "brand": "Dell",
+        "sales_price": 1498.0,
+        "discount_percentage": "40%",
+        "weight": "249 grams",
+        "rating": 3.3,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #53,848"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "DELL OEM P55F002 45w 19.5V 2.31A Laptop Charger,Dell Computers,P55F002",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #53,848"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "DELL 45W AC Adapter (Black)",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Item_Height": "25 Millimeters",
+            "Item_Width": "15.2 Centimeters",
+            "Item_Weight": "249 g",
+            "Product_Dimensions": "15.2 x 15.2 x 2.5 cm",
+            "Item_model_number": "P55F002",
+            "Wattage": "45 Watts"
+        },
+        "no__of_reviews": 4.0,
+        "cluster": 4
+    },
+    {
+        "uniq_id": "018e9c57995526bc5a8947b29abe632c",
+        "crawl_timestamp": "2020-02-06 18:30:23 +0000",
+        "asin": "B009VCCTJS",
+        "product_url": "https://www.amazon.in/Dell-Laptop-90W-AC-Adapter/dp/B009VCCTJS/",
+        "product_name": "Dell Laptop 90W AC Adapter",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41XF4FNV0CL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41EEXOfbwSL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41XF4FNV0CL.jpg|https://images-na.ssl-images-amazon.com/images/I/41EEXOfbwSL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/51qNNVZK6yL._SL1100_.jpg|https://images-na.ssl-images-amazon.com/images/I/61eBNnnD0RL._SL1200_.jpg",
+        "browsenode": 1375310031,
+        "brand": "Dell",
+        "sales_price": 1549.0,
+        "weight": "0.54 kg",
+        "rating": 3.9,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #18,831"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Dell Laptop 90W AC Adapter,Dell Computers",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #18,831"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Dell Laptop Adapter ac 90w ( WIthout power cable) | DELL AK-ND-05 65W Laptop Adapter without power Cord (Black) | Dell Power Cable & Original Laptop Power Adapter Charger 90W 19.5V 4.62A For Inspiron 3452 3530 3521 3541 3542 3543 | Dell Latitude Premium 90W Laptop AC Adapter and Battery Charger | Dell 90W 9RCDC Adapter Without Power Cord | DELL Laptop Charger for INSPIRON 5452 | Kingston ValueRAM 8GB 2400Mhz DDR4 Non-ECC CL17 SODIMM 1Rx8 (KVR24S17S8/8) | DELL NATAL-MR-PN-8739130 Inspiron 15R-5521 3521 OEM Battery (Black) | SanDisk Plus 240GB Solid State Drive | Sennheiser PC 8 Over-Ear USB VOIP Headphone with Mic (Black) | RHA MA390 Universal: Noise Isolating Aerophonic In-Ear Headphones with Universal Remote & Microphone | Lapcare 5-in-1 Screen Cleaning Kit with Suction Balloon | DELL AK-ND-05 65W Laptop Adapter without power Cord (Black) | Combo of Fugen Power Cable & Dell Genuine Laptop Adapter Charger 6tm1c 65w 19.5V 3.34A Inspiron 14r n4010 n4110, 13r n3010, 15r n5010 n5110 | DELL K257C Laptop Power Chord (Black) | Lapcare 65W 19V 3.42A Compatible Adapter Charger for Toshiba C640 C650 C645 C660 C800 C850 (Without Powercord)",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Colour": "black",
+            "Item_Weight": "540 g",
+            "Package_Dimensions": "24.2 x 18.8 x 6 cm",
+            "Item_part_number": "19.5V,4.62A (WTC0V)",
+            "Wattage": "90 Watts"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "16577eaca6c187c10a6e7acfbb6b71f9",
+        "crawl_timestamp": "2020-02-06 19:07:41 +0000",
+        "asin": "B07NDD4GQ2",
+        "product_url": "https://www.amazon.in/LAPSTER-Charger-Compatible-MacBook-13-inch/dp/B07NDD4GQ2/",
+        "product_name": "LS Lapster 61W USB Type C 3.1 AC Power Supply Charger Compatible for MacBook Pro 13-inch A1706 A1707 A1708 A1718 2016 Laptop",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/31gho8jtLxL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/31gho8jtLxL.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "HOUSE_OF_BRANDS",
+        "seller_id": "A1ZOUCXNDH2VO1",
+        "brand": "LS LAPSTER Quality Assured",
+        "sales_price": 2099.0,
+        "discount_percentage": "30%",
+        "weight": "\u2014",
+        "rating": 3.4,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #19,575"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "LS Lapster 61W USB Type C 3.1 AC Power Supply Charger Compatible for MacBook Pro 13-inch A1706 A1707 A1708 A1718 2016 Laptop,LS LAPSTER Quality Assured,TYPE-C",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #19,575"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "LS Lapster 61W USB C (USB 3.1) Type Power Adapter AC Supply Compatible Charger for Apple MacBook Pro A1706 A1707 A1708 13  inch | Laplife 65W 20v 3.25a USB Type-C Charger for Lenovo Thinkpad 13 MacBook pro Samsung Nexus ASUS Acer Dell HP Spectre | Baseus 32W Type C PD Fast Charger for iPhone X 8 Samsung + 2A PD Fast Charging Type C Cable. | Lenovo 65W 20V 3.25A Standard USB Type-C AC Adapter Charger for Thinkpad 13 2nd Gen Windows Series Laptop. | Baseus 18W International Worldwide Travel Adapter and (USB+Type C) PD Charger Support Quick Charge 3.0. | INICIO 36W USB-C PD + Qualcomm QC3.0 Dual USB Charger with 3A Type C 60W Fast Charge Cable for MacBook iPad Pro 2018 Galaxy Note 10 9 8 S10 Plus S10 S9 S8 Redmi One Plus 7T 7 Pro | DESTELLO X-Grip Bike USB Mobile Holder with Charger Port for ATV, Bicycle and Bike.Suitable for All Smartphone,GPS,Adjustable Clamp | WeCool JOGGERZ 2.0 Sports headsets || Bluetooth Earphone Wireless || Headphones for Mobile || Bluetooth Earphones for Mobile with mic + Free Carry Case (Black) | WIDEWINGS 650ml Handy Plastic Chopper with Pull Cord Technology and 3 Stainless Steel Blades Eco Friendly Design Vegetable & Fruit Chopper (Multicolor) | WideWings Magic Diamond Cool Mist Humidifiers Essential water Diffuser Aroma Air Humidifier With Led Night light Colorful Change For Car, Office, Home | BUYERZONE WITH BZ LOGO Stainless Steel Blades Eco Friendly Design 2 in 1 Chopper for Vegetables & Fruits Etc. | Greenberry Organics Bio Active Skin Lightening Face Gel Vitamin C, Liquorice Extracts, Rose & Lemon Oil, Brightening, Pigmentation, Clear Face, Organic & Natural, 30 ML",
+        "technical_details__k_v_pairs": {
+            "Brand": "LS LAPSTER Quality Assured",
+            "Item_Weight": "272 g",
+            "Package_Dimensions": "14.1 x 11.5 x 5.4 cm",
+            "Item_model_number": "TYPE-C",
+            "Wattage": "65 Watts",
+            "Included_Components": "1 Adaptor and 1 EU Plug"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "175578e2227cdbb03ff58adc2af68959",
+        "crawl_timestamp": "2020-02-07 07:50:39 +0000",
+        "asin": "B01KOMBD3Q",
+        "product_url": "https://www.amazon.in/Laptop-Battery-Adapter-Charger-Extensa/dp/B01KOMBD3Q/",
+        "product_name": "Fugen Laptop Battery Adapter Charger 65w 19v 3.42a for Acer Extensa 5570z 5580 5620 5630 6600 6700 6700z",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41ncSOQCzvL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41xQ7Qu8EnL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31bQLoNaJbL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41KjGkImhuL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41ncSOQCzvL.jpg|https://images-na.ssl-images-amazon.com/images/I/41xQ7Qu8EnL.jpg|https://images-na.ssl-images-amazon.com/images/I/31bQLoNaJbL.jpg|https://images-na.ssl-images-amazon.com/images/I/41KjGkImhuL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61cOtWBj%2BKL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/613nCuaz20L._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/5107TH5QUkL._SL1024_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "Punjab Online",
+        "seller_id": "A2V9CUK77QV9IF",
+        "brand": "FUGEN",
+        "sales_price": 679.0,
+        "discount_percentage": "31%",
+        "weight": "399 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #12,23,639"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Fugen Laptop Battery Adapter Charger 65w 19v 3.42a for Acer Extensa 5570z 5580 5620 5630 6600 6700 6700z,FUGEN,fgacer65w216",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #12,23,639"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "FUGEN",
+            "Model": "fgacer65w216",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "17 x 6 x 13 cm",
+            "Item_model_number": "fgacer65w216",
+            "Wattage": "65 Watts"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "e6967ce319c642241381cc63707f9c09",
+        "crawl_timestamp": "2020-02-07 07:48:25 +0000",
+        "asin": "B01HM45V8M",
+        "product_url": "https://www.amazon.in/4D-Adapter-IBM-92P1016-ThinkPad/dp/B01HM45V8M/",
+        "product_name": "4D 16V 4.5A 72W AC Power Laptop Adapter for IBM 92P1016 ThinkPad T40 T41 T42 T43 (Black)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51RIxAYO4QL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31Ovpbk0vFL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51RIxAYO4QL.jpg|https://images-na.ssl-images-amazon.com/images/I/31Ovpbk0vFL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/71uqemWfHsL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51uI6xj-15L._SL1024_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "4D INDIATEQ LIMITED",
+        "seller_id": "A28SQST3HLD23G",
+        "brand": "4 D (LABEL)",
+        "sales_price": 699.0,
+        "discount_percentage": "53%",
+        "weight": "399 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #2,42,108"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "4D 16V 4.5A 72W AC Power Laptop Adapter for IBM 92P1016 ThinkPad T40 T41 T42 T43 (Black),4d Indiateq Ltd,IBM Thinkpad R51",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #2,42,108"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "4 D (LABEL)",
+            "Model": "IBM Thinkpad R51",
+            "Item_Weight": "399 g",
+            "Package_Dimensions": "43.2 x 27.9 x 12.7 cm",
+            "Item_model_number": "IBM Thinkpad R51",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "4f1e2cf3725fa736c4308fd04f78b136",
+        "crawl_timestamp": "2020-02-06 17:27:33 +0000",
+        "asin": "B07L5H8VQN",
+        "product_url": "https://www.amazon.in/Dell-Vostro-1014-Adapter-Charger/dp/B07L5H8VQN/",
+        "product_name": "Dell Vostro 1014 65W Laptop Adapter/Charger",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51Kwp%2BBMJ-L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51Kwp%2BBMJ-L.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "Retails Global",
+        "seller_id": "A2OEQIUFJFXFDM",
+        "brand": "Dell",
+        "sales_price": 999.0,
+        "discount_percentage": "66%",
+        "weight": "400 grams",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #95,868"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Dell Vostro 1014 65W Laptop Adapter/Charger,Dell Computers,Dell Vostro 1014",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #95,868"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Dell Vostro 1015 65W Original Laptop Adapter/Charger | Dell Power Cable & Dell Genuine Original Laptop Adapter Charger 65w 19.5V 3.34A Vostro 1014, 1015, 1200, 1210 | DELL AK-ND-05 65W Laptop Adapter without power Cord (Black) | Dell VOSTRO 1014 65W Laptop Adaptor/Charger | Dell 65W 19.5V 3.34Amp Laptop Adapter Charger & Power Cord For Inspiron 15 (3551 I3551 3552 3558)/15 5000 Series 15 (I5555 I5558 5551 I7558 7568) | DELL Laptop Charger for INSPIRON 5452 | Dell Power Cable & Dell Genuine Original Laptop Adapter Charger 65w 19.5V 3.34A Vostro 1014, 1015, 1200, 1210 | DELL AK-ND-05 65W Laptop Adapter without power Cord (Black) | Dell Vostro 1015 65W Original Laptop Adapter/Charger",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Model": "Dell Vostro 1014",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "34 x 24 x 4 cm",
+            "Item_model_number": "Dell Vostro 1014",
+            "Wattage": "65 Watts",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "6211fcf438d74f5d5a42b21c2d3b8151",
+        "crawl_timestamp": "2020-02-07 02:14:02 +0000",
+        "asin": "B01K1KIUEQ",
+        "product_url": "https://www.amazon.in/FORITO-Keyboard-15-6-inch-Inspiron-Protector/dp/B01K1KIUEQ/",
+        "product_name": "FORITO Thin Dell Keyboard Cover for 15.6-inch DELL Laptop Inspiron 15 i5558 Dell Inspiron 15 3000 5000 Inspiron 17 5000 series laptop Keyboard Protector Dell Inspiron 15 Laptop US Layout Black Rainbow1",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51wP44PWqHL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/518ajUJfh2L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41-C3ObezOL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51K9TjutfcL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/514QXMZFZeL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/5102Si7J2TL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/411JW2gsZVL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51wP44PWqHL.jpg|https://images-na.ssl-images-amazon.com/images/I/518ajUJfh2L.jpg|https://images-na.ssl-images-amazon.com/images/I/41-C3ObezOL.jpg|https://images-na.ssl-images-amazon.com/images/I/51K9TjutfcL.jpg|https://images-na.ssl-images-amazon.com/images/I/514QXMZFZeL.jpg|https://images-na.ssl-images-amazon.com/images/I/5102Si7J2TL.jpg|https://images-na.ssl-images-amazon.com/images/I/411JW2gsZVL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61IOdbPAWnL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/71WyzcvueML._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/8105O5DhFJL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71E6Rl8dvsL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71yEIimz%2BuL._SL1500_.jpg",
+        "browsenode": 1375296031,
+        "brand": "FORITO",
+        "sales_price": 1367.0,
+        "weight": "18.1 g",
+        "rating": 4.1,
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "FORITO Thin Dell Keyboard Cover for 15.6-inch DELL Laptop Inspiron 15 i5558 Dell Inspiron 15 3000 5000 Inspiron 17 5000 series laptop Keyboard Protector Dell Inspiron 15 Laptop US Layout Black Rainbow1,FORITO,FM-DI5558-RB1",
+        "amazon_prime__y_or_n": "N",
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Neon Keyboard Protector Silicone Skin Cover for Dell Inspiron 5000 5558 15.6-inch Laptop,Black | 15 15.6 inch Laptop Notebook Skin vinyl Sticker Cover Decal Fits 13.3  14  15.6  16  HP Lenovo Apple Mac Dell Compaq Asus Acer / Neon Color Swirl Glass | FORITO Engineering-Grade Ultra Thin Keyboard Skin for Dell Inspiron 15 3567 i3567 i5570 5577 i5577 7559 i7577 7559/15.6  15 3000 Series/17.3  17 5000 | Forito Iphone 6 Plus Screen Protector,iphone 6s Screen Protector Tempered Glass, Hd Clear Ballistic Glass Screen Protector (5.5 ) - Protect Your Screen From Scratches 99.99% Clarity (Clear x 2PC Pack) | 15.6 inch Laptop Notebook Skin Sticker Cover Art Decal Fits 13.3  14  15.4  15.6  HP Dell Lenovo Apple Mac Asus Acer (Free 2 Wrist Pad Included) (Snow Scene) | [2PCS PACK] 15.6-Inch Laptop Anti Glare Screen Protector, FORITO Notebook Computer Anti-Glare Screen Guard Protector for HP/DELL/Asus/Acer/Sony/Samsung/Lenovo/Toshiba, Dispaly 16:9 (2-Pieces/Pack) | PcProfessional Screen Protector (Set of 2) for Dell inspiron 15 3000 Series 3565 5000 Series 5570 5575 15.6  Laptop High Clarity Anti Scratch Filter Radiation",
+        "technical_details__k_v_pairs": {
+            "Brand": "FORITO",
+            "Colour": "Others",
+            "Item_Height": "3 Millimeters",
+            "Item_Width": "10.2 Centimeters",
+            "Item_Weight": "18.1 g",
+            "Product_Dimensions": "38.1 x 10.2 x 0.3 cm",
+            "Item_model_number": "FM-DI5558-RB1",
+            "Processor_Count": "1",
+            "Computer_Memory_Type": "DIMM",
+            "Voltage": "0.01 Volts",
+            "Included_Components": "Others"
+        },
+        "no__of_reviews": 489.0,
+        "cluster": 4
+    },
+    {
+        "uniq_id": "5cf18d611f0b775f2cd972853ac58549",
+        "crawl_timestamp": "2020-02-07 12:12:20 +0000",
+        "asin": "B07V5HMR3R",
+        "product_url": "https://www.amazon.in/SellZone-Sony-Vaio-19-5V-39W/dp/B07V5HMR3R/",
+        "product_name": "SellZone Laptop Adapter/Charger Compatible for Sony Vaio 19.5V 2A 39W 19.5V 2A 40W",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51970FPAmBL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51970FPAmBL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/613UJbeXo1L._SL1000_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "OnlineCLS",
+        "seller_id": "A2BDRDRL5DHP5D",
+        "brand": "SellZone",
+        "sales_price": 849.0,
+        "discount_percentage": "50%",
+        "weight": "\u2014",
+        "rating": 1.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #6,29,547"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "SellZone Laptop Adapter/Charger Compatible for Sony Vaio 19.5V 2A 39W 19.5V 2A 40W,SellZone,Sony Vaio 19.5V 2A 39W",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #6,29,547"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "SellZone OEM Laptop Adapter/Charger Compatible for Sony Vaio VPCEH26EN 19.5V 4.7A 90W | - Sony - 19.5V 4.7A 90W AC Adapter for SONY VAIO VGN-FW Series, Compatible with P/N: VGP-AC19V21, VGP-AC19V23, VGP-AC19V25, VGP-AC19V26, VGP-AC19V31, VGP-AC19V32, VGP-AC19V35, VGP-AC19V41 | Swiztek Laptop Power Adapter for Sony Vaio Charger 19.5V 4.74A 90 Watts | LAPGRADE 19.5V 3.9A Adapter Charger for Sony Vaio F Series (Without Power Cable) | 4D 19.5V 4.7A Laptop Charger Adapter for Sony Vaio Series (Black) | LAPJII Adapter Charger for Sony VAIO VPC-EA36FX/P Laptops 19.5V, 3.33A-65W Pin - 6.5x4.4 with Power Cord",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "Sony Vaio 19.5V 2A 39W",
+            "Item_model_number": "Sony Vaio 19.5V 2A 39W",
+            "Wattage": "40 Watts"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "03a66127ffab45a709e85359f8ddcf09",
+        "crawl_timestamp": "2020-02-07 11:51:33 +0000",
+        "asin": "B01LXLEQHV",
+        "product_url": "https://www.amazon.in/ACETRONIX-15R-5520-5525-7520/dp/B01LXLEQHV/",
+        "product_name": "ACETRONIX Laptop Internal Speaker Set for Dell Inspiron 15R 5520 5525 7520",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/31V6-w5%2BrlL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/31V6-w5%2BrlL.jpg",
+        "browsenode": 1375442031,
+        "seller_name": "My Cheap Store",
+        "seller_id": "A2U7166HMOVQK3",
+        "brand": "Acetronix",
+        "sales_price": 449.0,
+        "discount_percentage": "55%",
+        "weight": "50 grams",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #4,146"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "ACETRONIX Laptop Internal Speaker Set for Dell Inspiron 15R 5520 5525 7520,Dell Computers,15R 5520 5525 7520",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #4,146"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Dell 6 Cell Battery for Inspiron 17R 4720 5720 7720 17R Se 4720 Se 5720 17R Se 7720 17R Turbo Inspiron 4720 | DELL 911MD 6-Cell Laptop Battery for Inspiron and Vostro (Black) | LaptopHub ET Laptop Internal Speaker for Dell Inspiron 3541 3542 3543 P/N 02RJ7P | UBN Internal Replacement Speaker for Dell Inspiron 5520 7520 Laptop | LAPMATE Replacement For Dell Laptop Keyboard(AM14RDEL00276) | ACETRONIX Laptop Internal Speaker Set for Dell Inpsiron 15R N5010 M5010 M501R P/N: 23.40744.021 DG15 | LAPMATE Replacement For Dell Laptop Keyboard(AM14RDEL00276) | Dell 6 Cell Battery for Inspiron 17R 4720 5720 7720 17R Se 4720 Se 5720 17R Se 7720 17R Turbo Inspiron 4720",
+        "technical_details__k_v_pairs": {
+            "Brand": "Acetronix",
+            "Item_Height": "13 Millimeters",
+            "Item_Width": "15.2 Centimeters",
+            "Item_Weight": "49.9 g",
+            "Product_Dimensions": "15.2 x 15.2 x 1.3 cm",
+            "Item_model_number": "15R 5520 5525 7520"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "bd8bf642ef59c80a4beb94d050bcf81b",
+        "crawl_timestamp": "2020-02-06 21:11:10 +0000",
+        "asin": "B07B3X2MBV",
+        "product_url": "https://www.amazon.in/SellZone-Laptop-Adapter-Charger-IDEAPAD/dp/B07B3X2MBV/",
+        "product_name": "SellZone Laptop Adapter/Charger for Lenovo IDEAPAD G580-20V 4.5A 90W PA-1900-56LC",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51KStZfukeL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51KStZfukeL.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "SellZone",
+        "sales_price": 885.0,
+        "discount_percentage": "21%",
+        "weight": "399 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #5,31,076"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "SellZone Laptop Adapter/Charger for Lenovo IDEAPAD G580-20V 4.5A 90W PA-1900-56LC,SellZone,SellZone Laptop Adapters",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #5,31,076"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Lenovo 20V 3.25A Slim Power Adapter Charger for G560 G570 G580 Z570 (5.5x2.5 mm) | Lapcare AC Adapter For Lenovo G500/G560/G550/G570/G580/IdeaPad 100 | LENOVO Box Pack Slim Power Adapter Charger CPA-A065 20V 3.25A 5.5x2.5mm | Lenovo 65W Ac Adapter Pa-1650-56Lc 36001651 57Y6400 for IBM Lenovo Ideapad Notebook: G430 G430-20003 G450 G450-20022 G460 G460-20041 G560 S205 U110 U110-23043Bu U110-23043Au",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "SellZone Laptop Adapters",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "34 x 24 x 4 cm",
+            "Item_model_number": "SellZone Laptop Adapters",
+            "Wattage": "90 Watts",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "3cac59fcd8dccb929e0bca2884e7b01f",
+        "crawl_timestamp": "2020-02-06 19:18:21 +0000",
+        "asin": "B01I08VLN8",
+        "product_url": "https://www.amazon.in/INSPIRON-ORIGINAL-LAPTOP-ADAPTOR-CHARGER/dp/B01I08VLN8/",
+        "product_name": "DELL INSPIRON 17R 5721 90W ORIGINAL LAPTOP ADAPTOR/ CHARGER",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41Ok3WYY7nL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41f2Ig3b0kL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51a5%2BN4sHkL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/219Ee17tLAL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41Qp1UxOLrL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41Ok3WYY7nL.jpg|https://images-na.ssl-images-amazon.com/images/I/41f2Ig3b0kL.jpg|https://images-na.ssl-images-amazon.com/images/I/51a5%2BN4sHkL.jpg|https://images-na.ssl-images-amazon.com/images/I/219Ee17tLAL.jpg|https://images-na.ssl-images-amazon.com/images/I/41Qp1UxOLrL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/81cLPcSEG0L._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71Ybez1lplL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61aTngiCfQL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/81CNlzxylML._SL1500_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "TPS Technologies",
+        "seller_id": "AJRK4JF48YXA",
+        "brand": "Dell",
+        "sales_price": 1850.0,
+        "discount_percentage": "47%",
+        "weight": "0.5 kg",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #19,31,823"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "DELL INSPIRON 17R 5721 90W ORIGINAL LAPTOP ADAPTOR/ CHARGER,Dell",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #19,31,823"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Item_Weight": "499 g",
+            "Package_Dimensions": "12 x 8 x 4 cm",
+            "Wattage": "90 Watts",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "2e0a29e5f632bb2e09145ba1fa229a56",
+        "crawl_timestamp": "2020-02-07 07:47:48 +0000",
+        "asin": "B07P8L5G97",
+        "product_url": "https://www.amazon.in/Swiztek-Laptop-Power-Adapter-Charger/dp/B07P8L5G97/",
+        "product_name": "Swiztek Laptop Power Adapter for Sony Vaio Charger 19.5V 4.74A 90 Watts",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41gMROtPZQL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/416-96v73rL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41gMROtPZQL.jpg|https://images-na.ssl-images-amazon.com/images/I/416-96v73rL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61xrWl9CuML._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61ESn5WehiL._SL1500_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "chotustore",
+        "seller_id": "AE0XQ04GENJES",
+        "brand": "Swiztek",
+        "sales_price": 775.0,
+        "discount_percentage": "22%",
+        "weight": "\u2014",
+        "rating": 3.7,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #18,433"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "Swiztek Laptop Power Adapter for Sony Vaio Charger 19.5V 4.74A 90 Watts,Swiztek,swizteksonyadp",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #18,433"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "SellZone OEM Adapter/Charger for Sony VAIO 19.5V 3.9A 75W (19.5V 3.9A 75W) | 4D 19.5V 4.7A Laptop Charger Adapter for Sony Vaio Series (Black) | SellZone OEM Laptop Adapter/Charger Compatible for Sony Vaio VPCEH26EN 19.5V 4.7A 90W | Gizga Essentials Laptop Power Cable Cord- 3 Pin Adapter Isi Certified(1 Meter/3.3 Feet) | Swiztek Laplife Bps26 Battery for Sony Vaio VGP-BPL26 VGP-BPS26 VGP-BPS26A VPCEH16EC Sony Vaio CA, CB, EG, EH, EJ, EL Series VPCCA 2011 Models | SLOVIC Child Safety Locks|Baby Safety Locks for Cupboard|Child Proofing Combo, 10 Child Safety Cabinet Locks with 5 Socket Guards.(White) | Terabyte IEC Mains Power Cable Compatible with Desktops, Monitors, Printers, Scanners (Black) | Command Medium Plastic Utility Hook (White,2 hooks and\u00a0 4 strips), Damage-Free Hanging, Holds Strongly | Amazon Brand - Solimo 2000-Watt Room Heater (ISI certified, White color, Ideal for small to medium room/area) | SellZone OEM Laptop Adapter/Charger Compatible for Sony Vaio VPCEH26EN 19.5V 4.7A 90W | - Sony - 19.5V 4.7A 90W AC Adapter for SONY VAIO VGN-FW Series, Compatible with P/N: VGP-AC19V21, VGP-AC19V23, VGP-AC19V25, VGP-AC19V26, VGP-AC19V31, VGP-AC19V32, VGP-AC19V35, VGP-AC19V41 | SellZone OEM Adapter/Charger for Sony VAIO 19.5V 3.9A 75W (19.5V 3.9A 75W) | Sony VAIO 19.5V 4.7A 90W AC Adapter for Sony VAIO Series: Sony VAIO VGNZ898H",
+        "technical_details__k_v_pairs": {
+            "Brand": "Swiztek",
+            "Model": "swizteksonyadp",
+            "Item_Weight": "308 g",
+            "Package_Dimensions": "17.6 x 12.8 x 5 cm",
+            "Item_model_number": "swizteksonyadp",
+            "Wattage": "90 Watts",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "No",
+            "Battery_Cell_Composition": "Lithium Ion",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "f6f5cda266c0d844b6a642dd3704de1d",
+        "crawl_timestamp": "2020-02-07 07:48:26 +0000",
+        "asin": "B01FDIBNFY",
+        "product_url": "https://www.amazon.in/LAPCARE-ADAPTER-ICON-LAPTOP-1014/dp/B01FDIBNFY/",
+        "product_name": "LAPCARE ADAPTER FOR HCL ME ICON LAPTOP 38 / 39 / 41 / 44 / 45 / 54 / 55 / 74 / 1014 / 1015 / 1065 SERIES",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41SQOKfwNHL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41SQOKfwNHL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/71cb7IurcbL._SL1500_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "spinfotech",
+        "seller_id": "A2QFGJBWFSGOIU",
+        "brand": "Lapcare",
+        "sales_price": 649.0,
+        "discount_percentage": "35%",
+        "weight": "250 grams",
+        "rating": 4.1,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #9,363"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "LAPCARE ADAPTER FOR HCL ME ICON LAPTOP 38 / 39 / 41 / 44 / 45 / 54 / 55 / 74 / 1014 / 1015 / 1065 SERIES,LAPCARE,LAPCARE1525",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #9,363"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Swiztek Laptop Adapter Charger 65w 19v 3.42a Pin Size 5.5 * 2.5mm for Lenovo, Toshiba, Asus, HCL, Intex, Fujitsu, Wipro, Medion, NEC Brand Laptops | Fugen Laptop Adapter Charger 65w 19v 3.42a Pin Size 5.5 * 2.5mm for Lenovo, Toshiba, Asus, HCL, Intex, Fujitsu, Wipro, Medion, NEC Brand Laptops | LAPJII Adapter Charger for HCL ME - 38, 39, 40, 41 Series Laptops 19.0V 3.42A 65W Pin-5.5x2.5 with Power Cord | Artis 65W Universal Laptop Adapter with 8 Interchangeable Connector pins | Gizga Essentials Laptop Power Cable Cord- 3 Pin Adapter Isi Certified(1 Meter/3.3 Feet) | Lapcare AC Adapter For Lenovo G500/G560/G550/G570/G580/IdeaPad 100 | SellZone Laptop Battery for HCL Me 74 C4500BAT-6 | Amazon Brand - Symbol Men's Sweatshirt | Ossoro French Vanilla Flavour, 30 ml | Terabyte HDMI Male to VGA Female Video Converter Adapter Cable (Black) | Van Heusen Athleisure Men's Regular Fit Shorts | Aroma Magic Activated Bamboo Charcoal Face Wash, 100ml | Lapcare 65W 19V 3.42A Compatible Adapter Charger for Toshiba C640 C650 C645 C660 C800 C850 (Without Powercord) | DELL AK-ND-05 65W Laptop Adapter without power Cord (Black) | HP 65W 4.5mm Non-EM AC Adapter Charger (Without Power Cord) | lenovo 65W Slim Port AC Adapter (in) | HP 65W 7.4mm Adapter Charger for Laptops and Notebooks (Without Power Cord)",
+        "technical_details__k_v_pairs": {
+            "Brand": "Lapcare",
+            "Colour": "BLACK",
+            "Item_Weight": "249 g",
+            "Package_Dimensions": "23.4 x 9.3 x 6.1 cm",
+            "Item_model_number": "LAPCARE1525",
+            "Wattage": "65 Watts",
+            "Operating_System": "NOT ALLOWED"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "7a5cae5bb3d33644a34d09eaa1982a3a",
+        "crawl_timestamp": "2020-02-06 16:57:32 +0000",
+        "asin": "B01N3816YU",
+        "product_url": "https://www.amazon.in/FUGEN-Laptop-Battery-Adapter-Charger/dp/B01N3816YU/",
+        "product_name": "FUGEN Laptop Battery Adapter Charger 65w 19v 3.42a for Acer Aspire E5-551, 551G, 553G, 571, 571G, 573G, 573TG, 574G and 575G",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41Oi-yEozmL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51VOzo7ZcrL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51qAGRVfSrL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41kYY%2BnGZzL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41Oi-yEozmL.jpg|https://images-na.ssl-images-amazon.com/images/I/51VOzo7ZcrL.jpg|https://images-na.ssl-images-amazon.com/images/I/51qAGRVfSrL.jpg|https://images-na.ssl-images-amazon.com/images/I/41kYY%2BnGZzL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61rtA18%2BbKL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/61VaUWygvBL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/613j3i%2BOqaL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51qV71dEi1L._SL1024_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "Punjab Online",
+        "seller_id": "A2V9CUK77QV9IF",
+        "brand": "FUGEN",
+        "sales_price": 1349.0,
+        "discount_percentage": "33%",
+        "weight": "400 grams",
+        "rating": 3.3,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #16,091"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "FUGEN Laptop Battery Adapter Charger 65w 19v 3.42a for Acer Aspire E5-551, 551G, 553G, 571, 571G, 573G, 573TG, 574G and 575G,Acer,plporgac418",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #16,091"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Fugen Power Cable & Acer Genuine Laptop Battery Adapter Charger 65w 19v 3.42a 5.5mmx1.7mm for Aspire E1 Series | LAPMATE Laplife 65W 19V/3.42A Laptop AC Adapter for ACER Aspire TRAVELMATE 4736 5738 5742 E1-53,1571 Series | Acer 65W AC Adapter | FUGEN Power Cable and Laptop Battery Adapter Charger 65w 19v 3.42a for Acer Aspire 4500 4520 4520g 4530 4535g 4540g 4551g | LAPGRADE 19V 3.42A Adapter Charger for Acer Aspire 4732 4733 4736Z 4738Z 4740 Series (Without Power Cable) | Witamy Power Cable & Acer Genuine Adapter Charger 45w 19v 2.37a for Acer Chromebook 11 C730 C730E C731 C731T C738T Series | Fugen Power Cable & Acer Genuine Laptop Battery Adapter Charger 65w 19v 3.42a 5.5mmx1.7mm for Aspire E1 Series | SanDisk 128GB Class 10 microSDXC Memory Card with Adapter (SDSQUAR-128G-GN6MA) | LAPMATE Laplife 65W 19V/3.42A Laptop AC Adapter for ACER Aspire TRAVELMATE 4736 5738 5742 E1-53,1571 Series | Lapcare Adapter for Acer 19.5v 3.42a 65W (Black) | Acer 65W AC Adapter | Fugen Power Cable & Acer Genuine Laptop Battery Adapter Charger 65w 19v 3.42a 5.5mmx1.7mm for Aspire E1 Series",
+        "technical_details__k_v_pairs": {
+            "Brand": "FUGEN",
+            "Item_Height": "13 Centimeters",
+            "Item_Width": "6 Centimeters",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "17 x 6 x 13 cm",
+            "Item_model_number": "plporgac418",
+            "Wattage": "65 Watts"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "2b60132369361bae81b8df109db0eb91",
+        "crawl_timestamp": "2020-02-06 16:58:34 +0000",
+        "asin": "B07L5GDGN4",
+        "product_url": "https://www.amazon.in/Dell-Inspiron-5010-Adapter-Charger/dp/B07L5GDGN4/",
+        "product_name": "Dell Inspiron 5010 65W Laptop Adapter/Charger",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51Kwp%2BBMJ-L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51Kwp%2BBMJ-L.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "Dell",
+        "sales_price": 1299.0,
+        "discount_percentage": "54%",
+        "weight": "400 grams",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #5,46,403"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "Dell Inspiron 5010 65W Laptop Adapter/Charger,Dell Computers,Dell Inspiron 5010",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #5,46,403"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Dell Original 90W Adapter Charger for Inspiron 14R 15R 5423 5523 7520 7420 | DELL Inspiron N5010 65W Laptop Charger | Dell Inspiron N5010 65W Original Laptop Adapter/Charger",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Model": "Dell Inspiron 5010",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "34 x 24 x 4 cm",
+            "Item_model_number": "Dell Inspiron 5010",
+            "Wattage": "65 Watts",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "bdd832fb18d2755eaa2dc13f846460db",
+        "crawl_timestamp": "2020-02-06 21:11:56 +0000",
+        "asin": "B07B3V7Q9N",
+        "product_url": "https://www.amazon.in/SellZone-Laptop-Adapter-Charger-Z570-20V/dp/B07B3V7Q9N/",
+        "product_name": "SellZone Laptop Adapter/Charger for Lenovo IdeaPad Z570-20V 4.5A 90W",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41qEXSo612L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41qEXSo612L.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "SellZone",
+        "sales_price": 885.0,
+        "discount_percentage": "21%",
+        "weight": "400 grams",
+        "rating": 4.6,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #1,58,676"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "SellZone Laptop Adapter/Charger for Lenovo IdeaPad Z570-20V 4.5A 90W,SellZone,SellZone Laptop Adapters",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #1,58,676"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Lenovo 65W Ac Adapter Pa-1650-56Lc 36001651 57Y6400 for IBM Lenovo Ideapad Notebook: G430 G430-20003 G450 G450-20022 G460 G460-20041 G560 S205 U110 U110-23043Bu U110-23043Au | Lenovo 20V 3.25A Slim Power Adapter Charger for G560 G570 G580 Z570 (5.5x2.5 mm) | Swiztek Adapter for Lenovo 20V 3.25A Slim Power Adapter Charger for G560 G570 G580 Z570 (5.5x2.5 mm)",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "SellZone Laptop Adapters",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "18 x 14 x 4 cm",
+            "Item_model_number": "SellZone Laptop Adapters",
+            "Wattage": "90 Watts",
+            "Batteries_Required": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "9e3dcc3b9442862a090d9c8bde51a991",
+        "crawl_timestamp": "2020-02-06 20:52:49 +0000",
+        "asin": "B07V813Y5X",
+        "product_url": "https://www.amazon.in/Saco-Chiclet-Keyboard-Inspiron-Laptop/dp/B07V813Y5X/",
+        "product_name": "Saco Chiclet Keyboard Skin for 15.6  Dell Inspiron 15 7000 7590 7591 Laptop, 15.6  Dell Inspiron 15 5000 5584, Dell Vostro 15 7590 Laptop - Black with Clear",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/511ALf5wJdL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51QqFq8cKpL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41u0YS-HZ%2BL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/416s4UydlbL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/511ksIfAY5L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/516WSFYSXFL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/511ALf5wJdL.jpg|https://images-na.ssl-images-amazon.com/images/I/51QqFq8cKpL.jpg|https://images-na.ssl-images-amazon.com/images/I/41u0YS-HZ%2BL.jpg|https://images-na.ssl-images-amazon.com/images/I/416s4UydlbL.jpg|https://images-na.ssl-images-amazon.com/images/I/511ksIfAY5L.jpg|https://images-na.ssl-images-amazon.com/images/I/516WSFYSXFL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61gAUn1h1sL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/714vPn5h4zL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61qix2dTMNL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71OlnHYzdTL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71XtZYcrBbL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/711vSHdbzyL._SL1500_.jpg",
+        "browsenode": 1375317031,
+        "seller_name": "saco",
+        "seller_id": "A13P5BE3LO2QXG",
+        "brand": "Saco",
+        "sales_price": 355.0,
+        "discount_percentage": "29%",
+        "weight": "200 g",
+        "rating": 3.3,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #6,810"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "Saco Chiclet Keyboard Skin for 15.6  Dell Inspiron 15 7000 7590 7591 Laptop, 15.6  Dell Inspiron 15 5000 5584, Dell Vostro 15 7590 Laptop - Black with Clear,saco",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #6,810"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Saco Touchpad Protector for Dell Inspiron 15 7000 7560 15.6-inch Laptop - (Transparent) | AWINNER Universal Silicone Keyboard Protector Skin for 15.6-inch Laptop | Saco Keyboard Protector Silicone Skin Cover for Dell Inspiron 5000 5558 15.6-inch Laptop (Black/Clear) | Universal Silicone Keyboard Protector Skin for 15.6-inch Laptop | Fedus Keyguard Protector for (15.6 inch) Laptop Keyboard Skin (Transparent) | Saco Keyboard Protector Silicone Skin Cover for Dell Inspiron 5570 Laptop -Black with Clear | Saco Anti Glare Scratch Anti-Fingerprint Ultra-Clear Screen Protector for Dell Inspiron 15 7000 Series 15.6-Inch Laptop | Saco Touchpad Protector for Dell Inspiron 15 7000 7560 15.6-inch Laptop - (Transparent) | OXYURA 15.6 Inch Laptop Sleeve Bag Cover Case (Black) | AWINNER Universal Silicone Keyboard Protector Skin for 15.6-inch Laptop | Mi 20000mAH Li-Polymer Power Bank 2i (Sandstone Black) with 18W Fast Charging",
+        "technical_details__k_v_pairs": {
+            "Brand": "Saco",
+            "Colour": "Black",
+            "Screen_Size": "15.6 Inches",
+            "Item_Weight": "200 g",
+            "Package_Dimensions": "10 x 10 x 2 cm",
+            "Item_part_number": "CKS-10096"
+        },
+        "colour": "Black|Transparent",
+        "cluster": 4
+    },
+    {
+        "uniq_id": "b560aab7c90299f8a334aa5dfad62e02",
+        "crawl_timestamp": "2020-02-07 01:19:07 +0000",
+        "asin": "B07S72Z2XW",
+        "product_url": "https://www.amazon.in/PCTECH-Battery-Inspiron-Lithium-ion-Compatible/dp/B07S72Z2XW/",
+        "product_name": "PCTECH Laptop Battery for DELL Inspiron 15 3537 (P28F003) Laptops (11.1 V, 4000 mAh, 6 Cell, Lithium-ion), Compatible Part Numbers: 6HY59, 06HY59, 4WY7C, FW1MN, 4DMNG",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41QQmJ3iGwL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41QQmJ3iGwL.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Pctech Computers",
+        "seller_id": "A2QD1MDK7JK6K5",
+        "brand": "PCTECH",
+        "sales_price": 2250.0,
+        "discount_percentage": "44%",
+        "weight": "349 g",
+        "rating": 2.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #26,944"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "PCTECH Laptop Battery for DELL Inspiron 15 3537 (P28F003) Laptops (11.1 V, 4000 mAh, 6 Cell, Lithium-ion), Compatible Part Numbers: 6HY59, 06HY59, 4WY7C, FW1MN, 4DMNG,PCTECH,Inspiron-3537",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #26,944"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "DELL 3437 Series 11.1V 6 Cell Battery for Inspiron 14 3421/14R 5421 5437/15 3521 3537/15R 5521 5537/17 3721 3737 (Black) | Dell 65WH MR90Y Battery for Inspiron 14-3421 14-3437 14-3443 14R-3421 15-3537 15-3521 15-3542 15R-5521 15R-5537, Latitude 3440 3540, Fit P/N XCMRD | Laplife Laptop Battery XCMRD for DELL INSPIRON 14 15 17 3521 3537 3542 3543 Vostro 2421 2521 Latitude 3440/3540 Series. | Dell 4 Cell 40WHr 14.8V Battery for Inspiron 14 (3421) 14R (5421) 15 (3521) 15R (5521) 17 (3721) 17R (5721) Vostro 2421 2521 Laptops | Laptop 6 Cell Battery for Dell Inspiron 15 15-3521 15-3537 15-3541 15-3542 | Dell 40WHr 4-Cell Primary Lithium-Ion Battery (FW1MN)",
+        "technical_details__k_v_pairs": {
+            "Brand": "PCTECH",
+            "Model": "Inspiron-3537",
+            "Item_Weight": "349 g",
+            "Product_Dimensions": "4 x 0.5 x 1 cm",
+            "Item_model_number": "Inspiron-3537",
+            "Battery_Cell_Composition": "Lithium Ion"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "ed42b77f4ed95b1fec333ab0fa0496e9",
+        "crawl_timestamp": "2020-02-06 23:47:31 +0000",
+        "asin": "B01IA41GJ6",
+        "product_url": "https://www.amazon.in/Battery-Adapter-Charger-E1-531G-E1-571G/dp/B01IA41GJ6/",
+        "product_name": "Fugen Power Cable & Acer Genuine Laptop Battery Adapter Charger 65w 19v 3.42a 5.5mmx1.7mm for Aspire E1 Series",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51HKtncIo1L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51VOzo7ZcrL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51qAGRVfSrL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51HKtncIo1L.jpg|https://images-na.ssl-images-amazon.com/images/I/51VOzo7ZcrL.jpg|https://images-na.ssl-images-amazon.com/images/I/51qAGRVfSrL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61Q6PxA7omL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/61VaUWygvBL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/613j3i%2BOqaL._SL1024_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "spinfotech",
+        "seller_id": "A2QFGJBWFSGOIU",
+        "brand": "FUGEN",
+        "sales_price": 1189.0,
+        "discount_percentage": "41%",
+        "weight": "400 grams",
+        "rating": 3.3,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #3,309"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "Fugen Power Cable & Acer Genuine Laptop Battery Adapter Charger 65w 19v 3.42a 5.5mmx1.7mm for Aspire E1 Series,Acer,plporgac169",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #3,309"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Acer 65W AC Adapter | LAPMATE Laplife 65W 19V/3.42A Laptop AC Adapter for ACER Aspire TRAVELMATE 4736 5738 5742 E1-53,1571 Series | Lapcare Adapter for Acer 19.5v 3.42a 65W (Black) | LAPGRADE 19V 3.42A Adapter Charger for Acer Aspire 4732 4733 4736Z 4738Z 4740 Series (Without Power Cable) | FUGEN Laptop Battery Adapter Charger 65w 19v 3.42a for Acer Aspire E5-551, 551G, 553G, 571, 571G, 573G, 573TG, 574G and 575G | SellZone 65W Adapter/Charger for ACER Aspire Laptop 65W 19V 3.42A | FUGEN Power Cable and Laptop Battery Adapter Charger 65w 19v 3.42a for Acer Aspire 4500 4520 4520g 4530 4535g 4540g 4551g | FUGEN Laptop Battery Adapter Charger 65w 19v 3.42a for Acer Aspire E5-551, 551G, 553G, 571, 571G, 573G, 573TG, 574G and 575G | Tarkan 6 ft Long Rugged Dash & Warp Charging Data Type C Cable for All USB-C Android Mobile Phones (Red) Supports 5V 6A & 5V 4A (20W & 30W) | Comfort Zonee Trendy & Stylish Maroon PU Leather Jacket for Women and Girls | CBSE All In One Accountancy Class 11 for 2018 - 19 (Old edition) | Storite Optical Bay 2nd Hard Drive Caddy, Universal for 9.5mm CD/DVD Drive Slot (for SSD and HDD) | LAPMATE Laplife 65W 19V/3.42A Laptop AC Adapter for ACER Aspire TRAVELMATE 4736 5738 5742 E1-53,1571 Series | Lapcare Adapter for Acer 19.5v 3.42a 65W (Black) | LAPGRADE 19V 3.42A Adapter Charger for Acer Aspire 4732 4733 4736Z 4738Z 4740 Series (Without Power Cable) | SellZone 65W Adapter/Charger for ACER Aspire Laptop 65W 19V 3.42A",
+        "technical_details__k_v_pairs": {
+            "Brand": "FUGEN",
+            "Item_Height": "13 Centimeters",
+            "Item_Width": "6 Centimeters",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "17 x 6 x 13 cm",
+            "Item_model_number": "plporgac169",
+            "Wattage": "65 Watts"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "fc2ab8081c3e09ecd29ffcf76e72fbcb",
+        "crawl_timestamp": "2020-02-06 23:43:06 +0000",
+        "asin": "B00N9AHGPA",
+        "product_url": "https://www.amazon.in/Dell-Energy-15-6-Inch-Backpack-F5W83/dp/B00N9AHGPA/",
+        "product_name": "Dell Energy 15.6-Inch 2.0 Backpack (F5W83) by Dell",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41DNXH9yAHL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41g9THq95yL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41DNXH9yAHL.jpg|https://images-na.ssl-images-amazon.com/images/I/41g9THq95yL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/713Z0p0GaVL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/91F3ieUZpjL._SL1500_.jpg",
+        "browsenode": 1375464031,
+        "seller_name": "TODAY'S DEAL",
+        "seller_id": "A2CK32O6THA5SS",
+        "brand": "Dell",
+        "sales_price": 1600.0,
+        "discount_percentage": "68%",
+        "weight": "0.79 kg",
+        "rating": 4.1,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #6,164"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "Dell Energy 15.6-Inch 2.0 Backpack (F5W83) by Dell,Dell Computers,F5W83",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #6,164"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "DELL 15 Essential Backpack | Dell Energy 2.0 Backpack 15.6(40.cm) (Blue) | Dell Gaming Backpack 15  | Dell Pro Slim Backpack 15-Keep Your Laptop, Tablet and Everyday Essentials securely Protected Within The eco-Friendly Dell Pro Slim Backpack (PO1520PS), a Slim-fit Backpack Designed for Work and More | DELL ESSENTIAL BACKPACK 15 (Colour Black, blue accents) | Dell Pro Backpack 15 (PO1520P), Made with a More Earth-Friendly Solution-Dyeing Process Than Traditional Dyeing processes and Shock-Absorbing EVA Foam That Protects Your Laptop from Impact. | Dell Wireless Mouse WM126 - Blue (0PD03) | Dell G3 3579 Core i5 8th Gen 15.6-inch FHD Laptop (8GB/1TB+128GB SSD/Windows 10/MS Office Home & Student 2016/4GB Graphics/Black/2.5kg) | Dell Energy 2.0 Backpack 15.6(40.cm) (Blue) | Dell Inspiron 5570 15.6-inch FHD Laptop (8th Gen i7-8550U/8GB/2TB + 128 GB SSD/Windows 10 with Ms Office Home & Student 2016/4GB Graphics), Silver | Dell Inspiron 3567 Intel Core i3 7th Gen 15.6-inch FHD Laptop (4GB/1TB HDD/Windows 10 Home/MS Office/Black/2.5kg) | SanDisk Ultra SDDDC2-064G-I35 64 GB Pen Drives (Black, Silver)",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Colour": "blue",
+            "Item_Height": "20.3 Centimeters",
+            "Item_Width": "48.3 Centimeters",
+            "Screen_Size": "15.6 Inches",
+            "Item_Weight": "794 g",
+            "Product_Dimensions": "33 x 48.3 x 20.3 cm",
+            "Item_model_number": "F5W83",
+            "Processor_Count": "1",
+            "RAM_Size": "1 GB",
+            "Wireless_Type": "2.4 GHz Radio Frequency"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "669825b06f53d2918b8c97576e5331e4",
+        "crawl_timestamp": "2020-02-06 17:15:53 +0000",
+        "asin": "B01IBS8UOA",
+        "product_url": "https://www.amazon.in/Lenovo-ThinkPad-Battery-Adapter-Charger/dp/B01IBS8UOA/",
+        "product_name": "Lenovo ThinkPad L440, L540, S431 Box Pack Laptop Battery Adapter Charger 65w 20v 3.25a",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41dR46PoDjL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41dR46PoDjL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/614MYwfPjrL._SL1024_.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "ElectronicsMarvel",
+        "seller_id": "ARBEPCMT3FADX",
+        "brand": "Lenovo",
+        "sales_price": 1145.0,
+        "discount_percentage": "43%",
+        "weight": "400 grams",
+        "rating": 3.9,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #1,31,825"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "Lenovo ThinkPad L440, L540, S431 Box Pack Laptop Battery Adapter Charger 65w 20v 3.25a,Lenovo,org65wusblen22",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #1,31,825"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Lenovo 65W Slim Port AC Adapter (in) | lenovo 65W Slim Port AC Adapter (in) | Lenovo Laptop Ac Adapter Charger Power Cord for T550/T450/T450S/T540P/T440P/T440/T440S/T431S | Lenovo ADLX45NDC3A ADLX45NLC3A ADLX45NCC3A 0C19880 ADLX45NCC2A Laptop AC Adapter Charger Power Cord | Lenovo Original Charger For Laptop G 50-45 Series 20V 3.25 A 65W | Lenovo Battery for Thinkpad 57+ L540, L440, T540p, T440p, W541, W540 Series Laptop Battery | HomeStorie\u00ae Folding Laundry Bag for Clothes, 38-LTR | Greenzone 3 In1 Mini Display Port Thunderbolt To HDMI/DVI/VGA Display Port (Cable) Adapter For Macbook, Microsoft Surface Pro & Pro 2,3 (White) | lenovo 65W Slim Port AC Adapter (in) | lenovo 65W Slim Port AC Adapter (in) | Lenovo Laptop Ac Adapter Charger Power Cord for T550/T450/T450S/T540P/T440P/T440/T440S/T431S | Lenovo ADLX45NDC3A ADLX45NLC3A ADLX45NCC3A 0C19880 ADLX45NCC2A Laptop AC Adapter Charger Power Cord | Lenovo 65W Slim Port AC Adapter (in)",
+        "technical_details__k_v_pairs": {
+            "Brand": "Lenovo",
+            "Model": "org65wusblen22",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "17 x 6 x 13 cm",
+            "Item_model_number": "org65wusblen22",
+            "Wattage": "65 Watts",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "e5cc060cf6e4715f68f64ce3a45b2259",
+        "crawl_timestamp": "2020-02-06 21:12:08 +0000",
+        "asin": "B07B3V11R7",
+        "product_url": "https://www.amazon.in/SellZone-Laptop-Adapter-Charger-IDEAPAD/dp/B07B3V11R7/",
+        "product_name": "SellZone Laptop Adapter/Charger for Lenovo IDEAPAD U310-20V 3.25A 65W PA-1650-56LC",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51KStZfukeL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51KStZfukeL.jpg",
+        "browsenode": 1375310031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "SellZone",
+        "sales_price": 885.0,
+        "discount_percentage": "21%",
+        "weight": "400 grams",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #8,13,511"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "SellZone Laptop Adapter/Charger for Lenovo IDEAPAD U310-20V 3.25A 65W PA-1650-56LC,SellZone,SellZone Laptop Adapters",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #8,13,511"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "SellZone Laptop Adapters",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "34 x 24 x 4 cm",
+            "Item_model_number": "SellZone Laptop Adapters",
+            "Wattage": "65 Watts",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 4
+    },
+    {
+        "uniq_id": "d5e2f8a96bfef69f7dc38bb6bb14c57e",
+        "crawl_timestamp": "2020-02-07 02:11:07 +0000",
+        "asin": "B078VFZFLZ",
+        "product_url": "https://www.amazon.in/mCover-Inspiron-Laptop-Compatible-I15-5565/dp/B078VFZFLZ/",
+        "product_name": "mCover Hard Shell Case for 15.6  Dell Inspiron 15 5565/5567 Laptop (NOT Compatible with Other Dell Inspiron 5000 Series Models) Laptop (I15-5565 Pink)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/31-IqrKG5wL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51KA9mvLe0L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51nI9-KoCPL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41WMYBQDMZL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31yWC3Zj6ZL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41HzvlE9g9L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/31-IqrKG5wL.jpg|https://images-na.ssl-images-amazon.com/images/I/51KA9mvLe0L.jpg|https://images-na.ssl-images-amazon.com/images/I/51nI9-KoCPL.jpg|https://images-na.ssl-images-amazon.com/images/I/41WMYBQDMZL.jpg|https://images-na.ssl-images-amazon.com/images/I/31yWC3Zj6ZL.jpg|https://images-na.ssl-images-amazon.com/images/I/41HzvlE9g9L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/71opnN00pjL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71K-Wz%2BnigL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/61TtPK91w3L._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/519RlDTF77L._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/510juvXNdIL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/61yg2yY0hML._SL1000_.jpg",
+        "browsenode": 1375468031,
+        "brand": "Unknown",
+        "sales_price": 4509.0,
+        "weight": "399 g",
+        "rating": 2.0,
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "mCover Hard Shell Case for 15.6  Dell Inspiron 15 5565/5567 Laptop (NOT Compatible with Other Dell Inspiron 5000 Series Models) Laptop (I15-5565 Pink),iPearl Inc, USA,mCover-Dell-i15-5565-Pink",
+        "amazon_prime__y_or_n": "N",
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "mCover iPearl Hard Shell Case for 15.6  Dell Inspiron 15 5545/5547 / 5548 Series Laptop - Pink | iPearl mCover Hard Shell Case for 15.6  Dell Inspiron 15 3552/3558 Series Computers (NOT Fitting Other Dell 15  laptops, Inspiron 3552/3558 Model Only) - Aqua | mCover iPearl Hard Shell Case for 15.6  Dell XPS 15 9550, Precision 5510 Series Laptop Computer (Clear) | Mosiso Mosiso Plastic Hard Case Cover for MacBook Air 13 Inch (Models: A1369 and A1466), Crystal Clear | Black iPearl mCover Hard Shell Case for 13.3  Dell XPS 13 9343/9350 Model(Released After Jan. 2015, not Fitting Older L321X / L322X / 9333 Model Released Before Jan. 2015) Ultrabook Laptop - Black | Paper Plane Design Army Collection Laptop Skins Sticker For Dell, Hp, Toshiba, Acer, Asus & All Models (Upto 15.6 inches) | Leze Ultra Thin Silicone Keyboard Protector Skin Cover for Dell 15C, 15MR, 15M, 15MD Series, Inspiron 15 3000 & 5000 Series, Such as 15-3541, 15-3542, 15-5547 15-5748 - Gradual Pink | FORITO Thin Dell Keyboard Cover for 15.6-inch DELL Laptop Inspiron 15 i5558 Dell Inspiron 15 3000 5000 Inspiron 17 5000 series laptop Keyboard Protector Dell Inspiron 15 Laptop US Layout Black Rainbow1",
+        "technical_details__k_v_pairs": {
+            "ModelNumber": "mCover-Dell-i15-5565-Pink",
+            "Color": "Pink",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "39.1 x 26.1 x 2.5 cm",
+            "Item_model_number": "mCover-Dell-i15-5565-Pink",
+            "Item_Height": "25 Millimeters",
+            "Item_Width": "26.1 Centimeters",
+            "Display_Size": "15.6 Inches",
+            "Auto_Focus_Included": "No",
+            "Included_components": "Others"
+        },
+        "colour": "Pink|Aqua",
+        "no__of_reviews": 37.0,
+        "no__of_offers": 2.0,
+        "no__of_sellers": 2.0,
+        "cluster": 4
+    }
+]

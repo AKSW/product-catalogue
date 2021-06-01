@@ -1,0 +1,4802 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix schema: <http://schema.org/> . 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-vr-31vr10-011>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-vr-31vr10-011> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "VR 31_VR10 011"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "14"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"147"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.9"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "80"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-pu-31pu10-011>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-pu-31pu10-011> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "PU 31_PU10 011"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "17"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"125"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.2"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "80"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7473-ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7473-ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 7473 EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "18"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro7485>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro7485> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO7485"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "18"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"226"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"10"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "66"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bissell-2024n-featherweight-pro-eco>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bissell-2024n-featherweight-pro-eco> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bissell"@de ] ;
+	schema:model "2024N FEATHERWEIGHT PRO ECO"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"48"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "78"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/princess-0133501001001>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/princess-0133501001001> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Princess"@de ] ;
+	schema:model "01.335010.01.001"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"111"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7793-ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7793-ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 7793 EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.2"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-6859-ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-6859-ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 6859 EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.7"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-3125-ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-3125-ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 3125 EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "0.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-rc60pet>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-rc60pet> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "RC60PET"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"84"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-tx60pet>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-tx60pet> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "TX60PET"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"124"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "64"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilfisk-rcl14e08a2>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilfisk-rcl14e08a2> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Nilfisk"@de ] ;
+	schema:model "RCL14E08A2"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"206"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "68"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilfisk-128350600>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilfisk-128350600> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Nilfisk"@de ] ;
+	schema:model "128350600"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"174"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "70"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx9-4-8ibx>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx9-4-8ibx> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX9-4-8IBX"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"342"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "69"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx9-4-8ibm>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx9-4-8ibm> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX9-4-8IBM"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"248"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "69"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx9-4-oko>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx9-4-oko> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX9-4-oeKO"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "20"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"215"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "69"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/vorwerk-kobold-vk200-mit-kobold-hd60>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/vorwerk-kobold-vk200-mit-kobold-hd60> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Vorwerk"@de ] ;
+	schema:model "Kobold VK200 mit Kobold HD60"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "21"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"483"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.2"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"4"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "80"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/vorwerk-kobold-vt300-mit-kobold-hd60>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/vorwerk-kobold-vt300-mit-kobold-hd60> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Vorwerk"@de ] ;
+	schema:model "Kobold VT300 mit Kobold HD60"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "21"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"711"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "80"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/fakir-air-wave-prestige-2000>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/fakir-air-wave-prestige-2000> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Fakir"@de ] ;
+	schema:model "Air Wave prestige 2000"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "22"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"78"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "70"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-vc-5-premium>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-vc-5-premium> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Kaercher"@de ] ;
+	schema:model "VC 5 Premium"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "22"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"160"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"3"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "77"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-br30pet-011>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-br30pet-011> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "BR30PET 011"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"63"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.8"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "78"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-silence-sgsk3-lotosweiss>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-silence-sgsk3-lotosweiss> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Complete C3 Silence SGSK3 Lotoswei√ü"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"203"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "64"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-x-trem-power-cyclonic-ro7266>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-x-trem-power-cyclonic-ro7266> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "X-trem Power Cyclonic (RO7266)"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"132"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-rc69pet-011>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-rc69pet-011> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "RC69PET 011"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"125"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "69"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-parquet-sgsp4>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-parquet-sgsp4> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Complete C3 Parquet SGSP4"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"224"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "74"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-6850ea-x-trem>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-6850ea-x-trem> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 6850Ea X-Trem"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"123"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-comfort-ecoline-sgmp3>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-comfort-ecoline-sgmp3> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Complete C3 Comfort EcoLine SGMP3"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"265"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "72"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-swing-h1-excellence-ecoline-graphitgrau>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-swing-h1-excellence-ecoline-graphitgrau> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Swing H1 Excellence EcoLine graphitgrau"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"160"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-electro-ecoline-sgfp3>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-electro-ecoline-sgfp3> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Complete C3 Electro EcoLine SGFP3"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"410"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"11"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "80"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-classic-c1-ecoline-sbap3>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-classic-c1-ecoline-sbap3> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Classic C1 EcoLine SBAP3"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"126"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "78"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-sgdp-3-36-ce-completec3-series120-e-spbl>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-sgdp-3-36-ce-completec3-series120-e-spbl> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "SGDP 3 36/CE/COMPLETEC3/SERIES120/E/SPBL"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"175"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-blizzard-cx-1-excellence-ecoline-graphitgrau-skcp3>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-blizzard-cx-1-excellence-ecoline-graphitgrau-skcp3> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "BLIZZARD CX 1 EXCELLENCE ECOLINE GRAPHITGRAU SKCP3"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"298"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-khross-ks40par-011>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-khross-ks40par-011> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "Khross KS40PAR 011"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"98"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-scap-3-00-ce-compactc1-e-mart>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-scap-3-00-ce-compactc1-e-mart> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "SCAP 3 00/CE COMPACTC1/E/MART"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"125"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-st50alg>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-st50alg> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "ST50ALG"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"202"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-blizzard-cx1-comfort-ecoline-skmp3-obsidianschwarz>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-blizzard-cx1-comfort-ecoline-skmp3-obsidianschwarz> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Blizzard CX1 Comfort EcoLine SKMP3 obsidianschwarz"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"354"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "73"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-swing-h1-ecoline>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-swing-h1-ecoline> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Swing H1 EcoLine"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"149"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "77"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro6497-silence-force>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro6497-silence-force> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO6497 Silence Force"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"203"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "66"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-tx50pet>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-tx50pet> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "TX50PET"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"91"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "62"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-blizzard-cx1-parquet-ecoline-skcp3-blau>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-blizzard-cx1-parquet-ecoline-skcp3-blau> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Blizzard CX1 Parquet EcoLine - SKCP3 blau"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"283"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "73"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c2-tango-ecoline-2019>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c2-tango-ecoline-2019> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "COMPLETE C2 TANGO ECOLINE (2019)"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"160"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro6361ea-silence-force-compact-4a-parkett>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro6361ea-silence-force-compact-4a-parkett> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO6361EA Silence Force Compact 4A+ Parkett"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"179"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "67"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7274-ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7274-ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 7274 EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-ks50pet>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-ks50pet> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "KS50PET"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"97"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "78"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-red-ecoline-sgsk3>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-red-ecoline-sgsk3> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Complete C3 Red EcoLine SGSK3"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"214"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "67"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-6493-ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-6493-ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 6493 EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"280"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "66"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7649-ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7649-ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 7649 EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-rc50par>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-rc50par> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "RC50PAR"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"95"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-excellence-sgsp3>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-excellence-sgsp3> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Complete C3 Excellence SGSP3"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"196"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "74"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro6371ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro6371ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO6371EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"183"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.8"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "67"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7690-ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-7690-ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 7690 EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"10"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-allergy-sgjp3>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-complete-c3-allergy-sgjp3> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Complete C3 Allergy -SGJP3"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"213"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "10"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "72"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro6823ea-x-trem-power-classic-4a>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro6823ea-x-trem-power-classic-4a> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO6823EA X-trem Power Classic+ 4A+"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"117"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "72"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-4859-ea-compact-power-cyclonic>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-4859-ea-compact-power-cyclonic> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 4859 EA COMPACT POWER CYCLONIC."@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-swing-h1-electro-ecoline-sacp3>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-swing-h1-electro-ecoline-sacp3> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Swing H1 Electro EcoLine SACP3"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"223"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "78"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-4825-ea-compact-power-cyclonic>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro-4825-ea-compact-power-cyclonic> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO 4825 EA COMPACT POWER CYCLONIC"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-tx63se-011>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/hoover-tx63se-011> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Hoover"@de ] ;
+	schema:model "TX63SE 011"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"148"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "64"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-blizzard-cx1-electro-ecoline-skcp3-41kcp333ce>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/miele-blizzard-cx1-electro-ecoline-skcp3-41kcp333ce> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Miele"@de ] ;
+	schema:model "Blizzard CX1 Electro EcoLine - SKCP3 ( 41KCP333CE)"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"574"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"12"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "80"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-rowenta-ro7244-x-trem-power-cyclonic-car-pro>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-rowenta-ro7244-x-trem-power-cyclonic-car-pro> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "Rowenta RO7244 X-Trem Power Cyclonic Car Pro"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"152"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "72"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro4881ea>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/rowenta-ro4881ea> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Rowenta"@de ] ;
+	schema:model "RO4881EA"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "23"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz4gm338>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz4gm338> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSZ4GM338"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"115"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/emerio-uve-1231092-handstaubsauger-kabel>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/emerio-uve-1231092-handstaubsauger-kabel> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Emerio"@de ] ;
+	schema:model "UVE-123109.2 HANDSTAUBSAUGER KABEL"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"2"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx-8-2-oko>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx-8-2-oko> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX 8-2 oeKO"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"150"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bsg6b110>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bsg6b110> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BSG6B110"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"65"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.6"^^xsd:decimal ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl-6-lhyg>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl-6-lhyg> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGL 6 LHYG"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bestron-abg850bce>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bestron-abg850bce> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bestron"@de ] ;
+	schema:model "ABG850BCE"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"65"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "76"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/clatronic-bs-1306>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/clatronic-bs-1306> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Clatronic"@de ] ;
+	schema:model "BS 1306"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"44"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/sauber-v20>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/sauber-v20> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Sauber"@de ] ;
+	schema:model "V20"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"55"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "80"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx-82-1-oko>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx-82-1-oko> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX 82-1-oeKO"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/cleanmaxx-9294-multi-sensation>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/cleanmaxx-9294-multi-sensation> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Cleanmaxx"@de ] ;
+	schema:model "9294 Multi Sensation"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"35"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"2"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "82"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgc-41-lsil-serie-6-prosilence>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgc-41-lsil-serie-6-prosilence> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGC 41 LSIL SERIE 6 PROSILENCE"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "0.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bestron-avc800>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bestron-avc800> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bestron"@de ] ;
+	schema:model "AVC800"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"37"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"2"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "80"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/dyson-cy-28-dyson-big-ball-multi-floor-2>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/dyson-cy-28-dyson-big-ball-multi-floor-2> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Dyson"@de ] ;
+	schema:model "CY 28 Dyson Big Ball Multi Floor 2"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Zyklonstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"259"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "80"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-vc-6-premium>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-vc-6-premium> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Kaercher"@de ] ;
+	schema:model "VC 6 Premium"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"296"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "72"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "ratingStiftungWarentest" ; 
+		schema:value "2.0"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsc-3320-iq-300-blau>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsc-3320-iq-300-blau> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSC 3320 IQ 300 BLAU"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.8"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/proficare-pc-bs-3038-rot-600w>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/proficare-pc-bs-3038-rot-600w> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "ProfiCare"@de ] ;
+	schema:model "PC-BS 3038 ROT 600W"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"2"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bomann-bs-1948-cb-anthracite-orange>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bomann-bs-1948-cb-anthracite-orange> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bomann"@de ] ;
+	schema:model "BS 1948 CB anthracite-orange"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"39"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/fakir-3688003-ts-2000-air-wave-premium>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/fakir-3688003-ts-2000-air-wave-premium> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Fakir"@de ] ;
+	schema:model "3688003 TS 2000 AIR WAVE PREMIUM"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"220"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bomann-bs-1948-cb-anthracite-blue>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bomann-bs-1948-cb-anthracite-blue> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bomann"@de ] ;
+	schema:model "BS 1948 CB anthracite-blue"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Handstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"39"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "0.7"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/fakir-artemis-ts-250-cat-dog>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/fakir-artemis-ts-250-cat-dog> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Fakir"@de ] ;
+	schema:model "Artemis TS 250 Cat & Dog"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"89"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.4"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-vc-6>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-vc-6> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Kaercher"@de ] ;
+	schema:model "VC 6"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"201"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "0.6"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "72"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz4gmjubi>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz4gmjubi> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSZ4GMJUBI"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"92"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.5"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/proficare-pc-bs3041>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/proficare-pc-bs3041> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "ProfiCare"@de ] ;
+	schema:model "PC-BS3041"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"64"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz4g312>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz4g312> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSZ4G312"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"95"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz3b212-z30>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz3b212-z30> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSZ3B212 Z3.0"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"81"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "0.5"^^xsd:decimal ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl3power-gl-30-propower>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl3power-gl-30-propower> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGL3POWER GL-30 ProPower"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"82"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "77"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz3multi>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz3multi> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSZ3MULTI"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"108"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx8-3-oko>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx8-3-oko> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX8-3-oeKO"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"199"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "61"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vs06a211>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vs06a211> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VS06A211"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"73"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vs06a212>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vs06a212> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VS06A212"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"74"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-lx8-2-okox-900278720>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-lx8-2-okox-900278720> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "LX8-2-oeKOX 900278720"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"164"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl35mon-moveon>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl35mon-moveon> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGL35MON MoveOn"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"123"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.4"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vs06a111-synchropower>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vs06a111-synchropower> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VS06A111 synchropower"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"63"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgn2champ>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgn2champ> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGN2CHAMP"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vs-06-110>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vs-06-110> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VS 06 A 110"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"78"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bsgl3a340>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bsgl3a340> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BSGL3A340"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"130"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/princess-0133275701001-turbo-tiger-compact>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/princess-0133275701001-turbo-tiger-compact> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Princess"@de ] ;
+	schema:model "01.332757.01.001 TURBO TIGER COMPACT"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"28"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"2"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-903371-hetty-het160-11-kompakt>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-903371-hetty-het160-11-kompakt> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Numatic"@de ] ;
+	schema:model "903371 Hetty HET160-11 KOMPAKT"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"148"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "6"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-908341-staubsauger-henry-petcare-hpc160-11-grun>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-908341-staubsauger-henry-petcare-hpc160-11-grun> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Numatic"@de ] ;
+	schema:model "908341 STAUBSAUGER HENRY PETCARE HPC160-11 GRueN"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"214"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "6"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-903372-henry-hvr160-11-kompakt>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-903372-henry-hvr160-11-kompakt> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Numatic"@de ] ;
+	schema:model "903372 Henry HVR160-11 KOMPAKT"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"158"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "6"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-junior-nuv180-11>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-junior-nuv180-11> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Numatic"@de ] ;
+	schema:model "Junior NUV180-11"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"117"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "8"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-nvp180-11>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-nvp180-11> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Numatic"@de ] ;
+	schema:model "NVP180-11"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"114"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "76"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-henry-allergy-hva160-11>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-henry-allergy-hva160-11> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Numatic"@de ] ;
+	schema:model "HENRY Allergy HVA160-11"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"217"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "6"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-900140-james-jds181-11-summer-blue>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-900140-james-jds181-11-summer-blue> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Numatic"@de ] ;
+	schema:model "900140 JAMES JDS181-11 SUMMER BLUE"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"115"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-903383-henry-hvr200-11-classic-red>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-903383-henry-hvr200-11-classic-red> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Numatic"@de ] ;
+	schema:model "903383 HENRY HVR200-11 CLASSIC RED"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"157"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "9"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-908415-staubsauger-henry-xtra-hvx160-11-rot>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/numatic-908415-staubsauger-henry-xtra-hvx160-11-rot> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Numatic"@de ] ;
+	schema:model "908415 STAUBSAUGER HENRY XTRA HVX160-11 ROT"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "25"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"213"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx-7-2-okox>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx-7-2-okox> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX 7-2-oeKOX"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"119"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgb75a59>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgb75a59> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGB75A59"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"240"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"10"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc-8577-09>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc-8577-09> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC 8577/09"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"121"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9929-09-powerpro-ultimate>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9929-09-powerpro-ultimate> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC9929/09 PowerPro Ultimate"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"308"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"3"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/thomas-crooser-silver-lite>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/thomas-crooser-silver-lite> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Thomas"@de ] ;
+	schema:model "crooSer silver lite"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"169"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.7"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "71"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc8782-09>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc8782-09> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC8782/09"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"216"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "66"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "ratingStiftungWarentest" ; 
+		schema:value "2.2"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/thomas-crooser-eco-20>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/thomas-crooser-eco-20> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Thomas"@de ] ;
+	schema:model "crooSer eco 2.0"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"145"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.2"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bestron-abg750bbe>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bestron-abg750bbe> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bestron"@de ] ;
+	schema:model "ABG750BBE"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"58"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc-9729-09-powerpro-expert>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc-9729-09-powerpro-expert> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC 9729/09 POWERPRO EXPERT"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"151"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/severin-bc7048>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/severin-bc7048> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Severin"@de ] ;
+	schema:model "BC7048"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"102"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.5"^^xsd:decimal ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "74"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/thomas-crooser-one>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/thomas-crooser-one> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Thomas"@de ] ;
+	schema:model "crooSer one"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"134"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.6"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "71"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-powerpro-active-fc9553-09>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-powerpro-active-fc9553-09> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "PowerPro Active FC9553/09"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"132"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz7a400>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz7a400> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSZ7A400"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"180"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "69"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "ratingStiftungWarentest" ; 
+		schema:value "1.7"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-ds-6-premium>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-ds-6-premium> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Kaercher"@de ] ;
+	schema:model "DS 6 Premium"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"270"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9333-09-powerpro-compact>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9333-09-powerpro-compact> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC9333/09 PowerPro Compact"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"88"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsq8ac342>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsq8ac342> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSQ8AC342"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"194"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsc7ac342>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsc7ac342> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSC7AC342"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"214"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2.2"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "ratingStiftungWarentest" ; 
+		schema:value "2.1"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx-7-2-iw-s>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx-7-2-iw-s> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX 7-2-IW-S"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "ratingStiftungWarentest" ; 
+		schema:value "2.1"^^xsd:decimal ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx7-2-crak>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx7-2-crak> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX7-2-CRAK"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"121"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "70"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl-75-ac-342>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl-75-ac-342> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGL 75 AC 342"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl3-b110>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl3-b110> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGL3 B110"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"73"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.8"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"4"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-ds-6>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/karcher-ds-6> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Kaercher"@de ] ;
+	schema:model "DS 6"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"241"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "2"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx7-2-oko>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx7-2-oko> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX7-2-oeKO"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"126"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "70"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl3b112>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgl3b112> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGL3B112"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"84"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"4"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgb75a440>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgb75a440> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGB75A440"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"181"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"9"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilco-3040003-rs-17>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilco-3040003-rs-17> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Nilco"@de ] ;
+	schema:model "3040003 RS 17"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"450"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc-9556-09-powerpro-active-turboduse>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc-9556-09-powerpro-active-turboduse> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC 9556/09 POWERPRO ACTIVE TURBODueSE"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"169"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgb75a342>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/bosch-bgb75a342> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Bosch"@de ] ;
+	schema:model "BGB75A342"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"132"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "1.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "69"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilfisk-select-chco14p08a1>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilfisk-select-chco14p08a1> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Nilfisk"@de ] ;
+	schema:model "Select CHCO14P08A1"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"202"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "75"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9331-09-powerpro-compact>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9331-09-powerpro-compact> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC9331/09 PowerPro Compact"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"87"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilfisk-elite-chco14p10a1>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/nilfisk-elite-chco14p10a1> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Nilfisk"@de ] ;
+	schema:model "Elite CHCO14P10A1"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"312"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"7"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "73"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9332-09-powerpro-compact>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9332-09-powerpro-compact> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC9332/09 PowerPro Compact"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"89"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "79"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx7-2-eb-p>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-vx7-2-eb-p> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "VX7-2-EB-P"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"119"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "5"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "70"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc-9555-09-powerpro-active>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc-9555-09-powerpro-active> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC 9555/09 POWERPRO ACTIVE"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"133"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"5"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-lx9-3-oko>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/aeg-lx9-3-oko> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "AEG"@de ] ;
+	schema:model "LX9-3-oeKO"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"260"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9741-09-powerpro-expert>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/philips-fc9741-09-powerpro-expert> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Philips"@de ] ;
+	schema:model "FC9741/09 PowerPro Expert"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "ohne Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"175"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "3.5"^^xsd:decimal ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"6"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "76"^^xsd:integer ] .
+
+<https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz7330>
+	a schema:Product ;
+	schema:url <https://www.ecotopten.de/kleine-haushaltsgerate/staubsauger/siemens-vsz7330> ;
+	schema:manufacturer [
+		a schema:Organization ;
+		schema:name "Siemens"@de ] ;
+	schema:model "VSZ7330"@de ;
+	schema:category "Staubsauger"@de ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "constructionType"@de ; 
+		schema:value "Bodenstaubsauger"@de ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "co2emissions(kgCO2/Year)" ; 
+		schema:value "26"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "bag"@de ; 
+		schema:value "mit Beutel"@de ] ;
+	schema:offers [
+		a schema:Offer ;
+		schema:priceCurrency "EUR" ; 
+		schema:price"151"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "dustContainerVolume(L)" ; 
+		schema:value "4"^^xsd:integer ] ;
+	schema:weight [
+		a schema:QuantitativeValue ;
+		schema:unitText "kg" ;
+		schema:value"8"^^xsd:integer ] ;
+	schema:additionalProperty [
+		a schema:PropertyValue ;
+		schema:name "noise(dBA)" ; 
+		schema:value "74"^^xsd:integer ] .

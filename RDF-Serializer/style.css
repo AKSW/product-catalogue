@@ -1,0 +1,145 @@
+/*body {
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}*/
+
+.content {
+  min-height: calc(100vh - 12em);
+}
+.footer {
+  height: 1em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  text-align: center;
+  font-size: 0.8em;
+}
+
+#copyright {
+  float: left;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  bottom: 0px;
+  width: 100%;
+}
+
+ol.numbered-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: list-number;
+  padding-left: 5%;
+}
+ol.numbered-list li {
+  counter-increment: list-number;
+  margin-bottom: 1em;
+  display: flex;
+  vertical-align: middle;
+}
+ol.numbered-list span {
+  display: inline-block;
+  vertical-align: middle;
+}
+ol.numbered-list div {
+  display: inline-block;
+  vertical-align: middle;
+  padding-top: 4px;
+}
+ol.numbered-list li span:before {
+  content: counter(list-number);
+  margin-right: 1em;
+  background-color: #16294b;
+  border-radius: 50%;
+  color: rgb(192, 202, 229);
+  width: 2rem;
+  height: 2rem;
+  padding-top: 0.3rem;
+  display: inline-block;
+  text-align: center;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.navbar {
+  overflow: hidden;
+  text-decoration: none;
+  color: #16294b;
+  font-weight: bold;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+.navbar-nav a:hover {
+  font-weight: bold;
+  color: #16294b;
+}
+
+#wrapper {
+  padding: 1em;
+  padding-left: 30%;
+  margin: 0;
+  text-align: center;
+}
+
+#inactive {
+  color: #62676e;
+  font-weight: bold;
+}
+
+header {
+  background-color: rgb(192, 202, 229);
+  color: black;
+  border-bottom: #16294b 3px solid;
+  font-weight: bold;
+  height: 5em;
+  padding-top: 1%;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+}
+
+.sidenav {
+  height: 100%;
+  position: fixed;
+  width: 15em;
+  margin-top: 8em;
+  z-index: 1000;
+}
+
+.navelements {
+  font-size: 1.3em;
+}
+
+.navelements a {
+  color: #16294b;
+  font-weight: bold;
+  margin-left: 3em;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 0;
+  margin: 0;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div#Props {
+  text-align: left;
+}

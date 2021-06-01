@@ -1,0 +1,1013 @@
+[
+    {
+        "uniq_id": "931355db52625c200b8056b19e9ee6a9",
+        "crawl_timestamp": "2020-02-07 08:41:30 +0000",
+        "asin": "B07VFW75F7",
+        "product_url": "https://www.amazon.in/SellZone-Acer-Aspire-V3-471G/dp/B07VFW75F7/",
+        "product_name": "SellZone Laptop Battery for Acer Aspire V3 471G Laptop",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41%2BThR2Qk6L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41%2BThR2Qk6L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61HNberlQhL._SL1500_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "SellZone",
+        "sales_price": 1599.0,
+        "discount_percentage": "64%",
+        "weight": "349 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #11,03,963"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "SellZone Laptop Battery for Acer Aspire V3 471G Laptop,SellZone,Acer Aspire V3 471G",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #11,03,963"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "Acer Aspire V3 471G",
+            "Item_Weight": "349 g",
+            "Product_Dimensions": "18 x 14 x 4 cm",
+            "Batteries_": "1 Lithium ion batteries required. (included)",
+            "Item_model_number": "Acer Aspire V3 471G",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "Yes",
+            "Battery_Cell_Composition": "Lithium Ion"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "412e56cef10c1e4b8ba88b5118a9131a",
+        "crawl_timestamp": "2020-02-07 02:43:00 +0000",
+        "asin": "B07N8VJB8Q",
+        "product_url": "https://www.amazon.in/Generic-Battery-Pavilion-15-AC042TU-Laptop/dp/B07N8VJB8Q/",
+        "product_name": "Generic Battery for HP Pavilion 15-AC042TU Laptop",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41MBqkfjLQL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31W7Mf0DFiL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31OxZCYmqNL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41Nko-%2BjhNL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41MBqkfjLQL.jpg|https://images-na.ssl-images-amazon.com/images/I/31W7Mf0DFiL.jpg|https://images-na.ssl-images-amazon.com/images/I/31OxZCYmqNL.jpg|https://images-na.ssl-images-amazon.com/images/I/41Nko-%2BjhNL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61L-CDrElhL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61FOO-ofxxL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61MMKd1a5lL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61dd-lwQKtL._SL1500_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Ekart9",
+        "seller_id": "A1VMTLJK047M6D",
+        "brand": "Generic",
+        "sales_price": 1650.0,
+        "discount_percentage": "55%",
+        "weight": "999999999",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #8,23,445"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Generic Battery for HP Pavilion 15-AC042TU Laptop,Generic,15-AC042TU",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #8,23,445"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Generic",
+            "Model": "15-AC042TU",
+            "Item_model_number": "15-AC042TU",
+            "Included_Components": "1 Battery",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "Yes",
+            "Battery_Cell_Composition": "Lithium Ion"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "b4aac593153ef1164c8ec2051ec3cf21",
+        "crawl_timestamp": "2020-02-07 08:45:37 +0000",
+        "asin": "B07VBNWPZN",
+        "product_url": "https://www.amazon.in/SellZone-Acer-Aspire-4755G-4771G/dp/B07VBNWPZN/",
+        "product_name": "SellZone Laptop Battery for Acer Aspire 4755 4755G 4771 4771G Laptop",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41pCylWjvBL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41pCylWjvBL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61dVOH3usNL._SL1500_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "SellZone",
+        "sales_price": 1599.0,
+        "discount_percentage": "60%",
+        "weight": "349 g",
+        "rating": 2.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #18,17,080"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "SellZone Laptop Battery for Acer Aspire 4755 4755G 4771 4771G Laptop,SellZone,Acer Aspire 4755 4755G 4771 4771G",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #18,17,080"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "Acer Aspire 4755 4755G 4771 4771G",
+            "Item_Weight": "349 g",
+            "Product_Dimensions": "18 x 14 x 4 cm",
+            "Batteries_": "1 Lithium ion batteries required. (included)",
+            "Item_model_number": "Acer Aspire 4755 4755G 4771 4771G",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "Yes",
+            "Battery_Cell_Composition": "Lithium Ion"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "de45b596e2f51fb1e6e25d9acfecd4b5",
+        "crawl_timestamp": "2020-02-06 19:06:58 +0000",
+        "asin": "B07B9LBLG9",
+        "product_url": "https://www.amazon.in/Hako-Toshiba-Satellite-Laptop-Battery/dp/B07B9LBLG9/",
+        "product_name": "Hako Toshiba Satellite C845 C845D C850 6 Cell Laptop Battery Black",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/51gS-eH0AXL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41LABLWR8GL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51XoXbe87OL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31Im2KncQFL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31jdBZOj7IL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/315QNb7-jxL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/410d0JJxS4L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/51gS-eH0AXL.jpg|https://images-na.ssl-images-amazon.com/images/I/41LABLWR8GL.jpg|https://images-na.ssl-images-amazon.com/images/I/51XoXbe87OL.jpg|https://images-na.ssl-images-amazon.com/images/I/31Im2KncQFL.jpg|https://images-na.ssl-images-amazon.com/images/I/31jdBZOj7IL.jpg|https://images-na.ssl-images-amazon.com/images/I/315QNb7-jxL.jpg|https://images-na.ssl-images-amazon.com/images/I/410d0JJxS4L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/81Img1qb6kL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71aDGQblqwL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71%2Budl2EU%2BL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61MXqLLbcvL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61vimJ6HEVL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61trHmcQc1L._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/7148k1aBirL._SL1500_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Laptop Battery Store",
+        "seller_id": "ABTHNWQM1EEWU",
+        "brand": "Hako",
+        "sales_price": 1240.0,
+        "discount_percentage": "38%",
+        "weight": "499 g",
+        "rating": 3.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #36,694"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Hako Toshiba Satellite C845 C845D C850 6 Cell Laptop Battery Black,Hako,HK_TO_PA5024U",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #36,694"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Hako Toshiba Satellite C850 6 Cell Laptop Battery Black | UBN Compatible Toshiba PA5024U 1BRS 6 Cell Laptop Battery | Generic Laptop Battery for Toshiba Satellite C850 Series Laptop | Compatible Battery for Toshiba Laptop Battery for PA3817U-1BRS Satellite L740 L745 L745D L700 L700D L735 | Lapguard 6 Cell Laptop Battery for Toshiba Satellite C850 Black (LGBTT5024BLK06) | Compatible Toshiba PA5024U 1BRS Laptop Battery 6 Cell | Hako Toshiba Satellite C850 6 Cell Laptop Battery Black | UBN Compatible Toshiba PA5024U 1BRS 6 Cell Laptop Battery",
+        "technical_details__k_v_pairs": {
+            "Brand": "Hako",
+            "Colour": "Black",
+            "Item_Weight": "499 g",
+            "Package_Dimensions": "26.4 x 8.6 x 4.8 cm",
+            "Batteries_": "6 Lithium ion batteries required.",
+            "Item_model_number": "HK_TO_PA5024U",
+            "Lithium_battery_Voltage": "10.80 Volts",
+            "Lithium_battery_Weight": "400 Grams",
+            "Included_Components": "1 laptop battery"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "c81a58efa2de8bff205a1925ce885b07",
+        "crawl_timestamp": "2020-02-07 08:41:33 +0000",
+        "asin": "B0187GHUF6",
+        "product_url": "https://www.amazon.in/Lapguard-Replacement-Laptop-Battery-LGBTLG560BLK06/dp/B0187GHUF6/",
+        "product_name": "Lapguard 6 Cell Laptop Battery for Lenovo G560 Black (LGBTLG560BLK06)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/418zS8urHhL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51iNOT%2BKgEL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41BXteOh%2B9L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31-AkeghbtL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31hrKMLPfmL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51p6N3eJYUL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/418zS8urHhL.jpg|https://images-na.ssl-images-amazon.com/images/I/51iNOT%2BKgEL.jpg|https://images-na.ssl-images-amazon.com/images/I/41BXteOh%2B9L.jpg|https://images-na.ssl-images-amazon.com/images/I/31-AkeghbtL.jpg|https://images-na.ssl-images-amazon.com/images/I/31hrKMLPfmL.jpg|https://images-na.ssl-images-amazon.com/images/I/51p6N3eJYUL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61l0rPSEUlL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/71KgPKPfWHL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/61%2BGU6k7rLL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51ZfD2hIRBL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51pSg6fDgtL._SL1024_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "omcomputronix",
+        "seller_id": "A1CBS4KWAQDMHH",
+        "brand": "Lapguard",
+        "sales_price": 2027.0,
+        "discount_percentage": "49%",
+        "weight": "349 g",
+        "rating": 3.7,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #13,61,022"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Lapguard 6 Cell Laptop Battery for Lenovo G560 Black (LGBTLG560BLK06),Lapguard,LGBTLG560BLK06_1015_28",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #13,61,022"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Lapguard",
+            "Model": "LGBTLG560BLK06_1015_28",
+            "Item_Weight": "349 g",
+            "Product_Dimensions": "204.8 x 51.3 x 20.7 cm",
+            "Item_model_number": "LGBTLG560BLK06_1015_28",
+            "Additional_Features": "Battery With High Quality Protection Circuit Board :: Built-in circuit protection :: Automatic power cut off funcation:: Low power Consumption::Ensure safety and extended battery life::No memory effect::Enviroment friedly::Battery with High quality Grade A cells::charges quickly::Longer Discharge Time::Steady Output::Low Power Consumption::Relible & Safe to Use",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "No",
+            "Battery_Cell_Composition": "Lithium Ion",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "30ad013e335d0bd7d35ee7079ebec073",
+        "crawl_timestamp": "2020-02-07 06:22:07 +0000",
+        "asin": "B0793HYVWT",
+        "product_url": "https://www.amazon.in/5200mah-Battery-A32-K53-A41-K53-Warranty/dp/B0793HYVWT/",
+        "product_name": "caen asus 10.8v 5200mah 6 cell Laptop Battery for ASUS A32-K53 A41-K53 K53 K53E, ASUS A54C K53SV X53U X54H X54C X53S X53 K53S X53E",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41F%2BMG3E5hL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41i2EpIWLTL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41OqJYxMqsL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41DgeAX-G0L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41ZejRiCueL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41v0rFD4dgL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/413fhcXcIGL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41F%2BMG3E5hL.jpg|https://images-na.ssl-images-amazon.com/images/I/41i2EpIWLTL.jpg|https://images-na.ssl-images-amazon.com/images/I/41OqJYxMqsL.jpg|https://images-na.ssl-images-amazon.com/images/I/41DgeAX-G0L.jpg|https://images-na.ssl-images-amazon.com/images/I/41ZejRiCueL.jpg|https://images-na.ssl-images-amazon.com/images/I/41v0rFD4dgL.jpg|https://images-na.ssl-images-amazon.com/images/I/413fhcXcIGL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/5105rdkafBL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/61B82KDCT6L._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/6154zMUzfbL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51oqszzSMoL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51rdZ0OFV1L._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51Til-p4jZL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51nzyPV8amL._SL1000_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Hi-Tech computers enterprise",
+        "seller_id": "A1TACRL9SQXPUT",
+        "brand": "caen asus",
+        "sales_price": 4399.0,
+        "discount_percentage": "48%",
+        "weight": "363 g",
+        "rating": 3.8,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #38,560"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "caen asus 10.8v 5200mah 6 cell Laptop Battery for ASUS A32-K53 A41-K53 K53 K53E, ASUS A54C K53SV X53U X54H X54C X53S X53 K53S X53E,Asus,CAEN-U10-5200MAH-01",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #38,560"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Lap Gadgets Laptop Battery for Asus A32-K53 X53U X54C X54H X53SC X53SV X53E X43U 6 Cell Battery | Laplife Battery for Asus K53 K43 K43S A32-K53 A42-K53 Series | Clublaptop Laptop Battery 6 Cell for ASUS | Lap Gadgets Laptop Battery for Asus X451, X551, X451C, X451CA, X551C, X551CA, F551CA, F551MA, D550, D550C, F550M Battery PN: A31LJ91, A31N1319, A41N1308, X45LI9C | Hako for ASUS K53 K53E X54C X53S X53 K53S 6 Cell Laptop Battery Black | SP Infotech 6 Cell Laptop Battery for ASUS A32-K53 X53U X54C X54H X53SC X53SV X53E X43U | Silicon Power 1TB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5  7mm (0.28 ) Internal Solid State Drive (SP001TBSS3A55S25) | Silicon Power 512GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5  7mm (0.28 ) Internal Solid State Drive (SP512GBSS3A55S25) | Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5  7mm (0.28 ) Internal Solid State Drive (SP256GBSS3A55S25) | MoKo Microsoft Surface Pro 2017 / Surface Pro 4 Case, All-in-One Protective Rugged Cover Case with Pen Holder, Hand Strap, Compatible with Type Cover Keyboard for Surface Pro 2017 / Pro 4 - Black",
+        "technical_details__k_v_pairs": {
+            "Brand": "caen asus",
+            "Item_Height": "30 Millimeters",
+            "Item_Width": "8.4 Centimeters",
+            "Item_Weight": "363 g",
+            "Product_Dimensions": "30 x 8.4 x 3 cm",
+            "Batteries_": "1 Lithium ion batteries required.",
+            "Item_model_number": "CAEN-U10-5200MAH-01",
+            "Voltage": "10.8 Volts",
+            "Lithium_Battery_Energy_Content": "4 Watt Hours",
+            "Lithium_battery_Weight": "0.85 Grams",
+            "Number_of_Lithium_Ion_Cells": "6"
+        },
+        "no__of_reviews": 9.0,
+        "cluster": 5
+    },
+    {
+        "uniq_id": "7269390f4584b5d23b443c36830cf66a",
+        "crawl_timestamp": "2020-02-06 21:10:40 +0000",
+        "asin": "B07DKFRMZM",
+        "product_url": "https://www.amazon.in/Laptop-Battery-ThinkPad-45N1070-45N1071/dp/B07DKFRMZM/",
+        "product_name": "4d Laptop Battery for Lenovo ThinkPad X1 Carbon 3444 3448 3460 45N1070 45N1071 X1C",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41qSJOGlYGL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/411A5DNhqCL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41wSGG-oOjL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41AbT-x4r2L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41qSJOGlYGL.jpg|https://images-na.ssl-images-amazon.com/images/I/411A5DNhqCL.jpg|https://images-na.ssl-images-amazon.com/images/I/41wSGG-oOjL.jpg|https://images-na.ssl-images-amazon.com/images/I/41AbT-x4r2L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/81sNkCda1ML._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/81JgGc4kKYL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71XvjSYSIYL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/71eyTlA0AdL._SL1500_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "4D INDIATEQ LIMITED",
+        "seller_id": "A28SQST3HLD23G",
+        "brand": "4 D (LABEL)",
+        "sales_price": 3888.0,
+        "discount_percentage": "44%",
+        "weight": "390 g",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #39,016"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "4d Laptop Battery for Lenovo ThinkPad X1 Carbon 3444 3448 3460 45N1070 45N1071 X1C,4d,45N1070",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #39,016"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Lenovo Orignal Battery ThinkPad X1 Carbon 3444 3448 3460 45N1070 45N1071 X1C | SOLUTIONS-365 45N1701 Battery for Lenovo ThinkPad X1 Carbon 14 Series Laptop 45N1702 45N1703 4ICP5/58/73-2 45wh 14.8V Compatible Battery",
+        "technical_details__k_v_pairs": {
+            "Brand": "4 D (LABEL)",
+            "Colour": "Black",
+            "Item_Height": "5 Centimeters",
+            "Item_Width": "10 Centimeters",
+            "Item_Weight": "390 g",
+            "Product_Dimensions": "30 x 10 x 5 cm",
+            "Item_model_number": "45N1070"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "ac40a264485ce133ababad125d7c9173",
+        "crawl_timestamp": "2020-02-07 01:18:39 +0000",
+        "asin": "B07F8481DW",
+        "product_url": "https://www.amazon.in/SellZone-Battery-HP-Pavilion-15-G049AU/dp/B07F8481DW/",
+        "product_name": "SellZone Laptop Battery for HP Pavilion 15-G049AU",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41hGMryf6wL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41aOLNldUdL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31xNM-y8p1L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31j-kK6EIKL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41hGMryf6wL.jpg|https://images-na.ssl-images-amazon.com/images/I/41aOLNldUdL.jpg|https://images-na.ssl-images-amazon.com/images/I/31xNM-y8p1L.jpg|https://images-na.ssl-images-amazon.com/images/I/31j-kK6EIKL.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "SellZone",
+        "sales_price": 2249.0,
+        "discount_percentage": "55%",
+        "weight": "349 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #8,65,881"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "SellZone Laptop Battery for HP Pavilion 15-G049AU,Generic,HP Pavilion 15-G049AU",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #8,65,881"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "HP Pavilion 15-G049AU",
+            "Item_Weight": "349 g",
+            "Package_Dimensions": "18 x 14 x 4 cm",
+            "Item_model_number": "HP Pavilion 15-G049AU"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "39011c2ac4768e13fb9984e48a479697",
+        "crawl_timestamp": "2020-02-06 21:43:42 +0000",
+        "asin": "B01GTP7SKE",
+        "product_url": "https://www.amazon.in/Battery-Z500-L12L4K01-L12S4E21-L12S4K01/dp/B01GTP7SKE/",
+        "product_name": "4d Laptop Battery for Lenovo Z500 IDEAPAD Touch P500 Z400 Z500 L12L4K01 L12S4E21 L12S4K01 4 Cell Battery",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/31AFNM-ZDeL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31uY3h6AESL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41ComDH8fkL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/31AFNM-ZDeL.jpg|https://images-na.ssl-images-amazon.com/images/I/31uY3h6AESL.jpg|https://images-na.ssl-images-amazon.com/images/I/41ComDH8fkL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/518o6U2-TjL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/519c5zp%2BJiL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/61rAzngDPYL._SL1000_.jpg",
+        "browsenode": 1375315031,
+        "brand": "4D",
+        "weight": "399 g",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #5,88,344"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "4d Laptop Battery for Lenovo Z500 IDEAPAD Touch P500 Z400 Z500 L12L4K01 L12S4E21 L12S4K01 4 Cell Battery,4d,LENOVO Z500",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #5,88,344"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Lenovo Orignal Battery IdeaPad P500 Z400 Z500 Z510 Laptop Battery | Lapgrade 4594LEZ500 Battery for Lenovo IdeaPad Z400 Z500 P500 Series (Black) | Lap Gadgets Laptop Battery for Lenovo IdeaPad Z500 Touch 4 Cell PN: 4INR19/65-1 / 4INR19/66/ L12M4K01/ L12S4E21 / L12S4K01 | Laplife Laptop Battery for Lenovo IdeaPad Z400 Z500 P500 Series | Laptop Battery for Lenovo Ideapad G40-30 G40-45 G40-70 G40-70M G50 G50-30 G50-45 G50-70 G50-70M G500s | Lenovo Legion Y540 9th Gen Core Intel I5 15.6 inch FHD Gaming Laptop (8GB RAM / 1TB HDD + 128 GB SSD / Windows 10 Home / 4GB NVIDIA GTX 1650 Graphics / Black / 2.3 Kg), 81SY00C3IN",
+        "technical_details__k_v_pairs": {
+            "Brand": "4D",
+            "Model": "LENOVO Z500",
+            "Item_Weight": "399 g",
+            "Package_Dimensions": "30.2 x 11 x 5 cm",
+            "Item_model_number": "LENOVO Z500",
+            "Compatible_Devices": "LENOVO IdeaPad Z500 Series LENOVO IdeaPad Z500 Touch Series",
+            "Additional_Features": "Compatible battery to replace your current ageing battery, 4 Cell Laptop Battery, 2200 mAh of Power, Battery backup up to 2 hours",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No",
+            "Battery_Cell_Composition": "Lithium Ion",
+            "Battery_Power": "4400.00",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "2651588efa41c7943b86708cd456d5a3",
+        "crawl_timestamp": "2020-02-06 23:33:26 +0000",
+        "asin": "B0185W26F6",
+        "product_url": "https://www.amazon.in/Lapguard-Replacement-Laptop-Battery-LGBTHP6510BBLK06/dp/B0185W26F6/",
+        "product_name": "Lapguard 6 Cell Laptop Battery for HP Compaq 6710s Dark Blue (LGBTHP6510BBLK06)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41SGyEZ1EAL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/514qr%2BApncL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/416DsI95xXL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41bY-U9TKBL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41wJtEWMg6L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51ucFJ3WD-L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41SGyEZ1EAL.jpg|https://images-na.ssl-images-amazon.com/images/I/514qr%2BApncL.jpg|https://images-na.ssl-images-amazon.com/images/I/416DsI95xXL.jpg|https://images-na.ssl-images-amazon.com/images/I/41bY-U9TKBL.jpg|https://images-na.ssl-images-amazon.com/images/I/41wJtEWMg6L.jpg|https://images-na.ssl-images-amazon.com/images/I/51ucFJ3WD-L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61UR6wjVyDL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/71Sm2%2BsCdLL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/61ShEVUN80L._SL1024_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "omcomputronix",
+        "seller_id": "A1CBS4KWAQDMHH",
+        "brand": "Lapguard",
+        "sales_price": 1843.0,
+        "discount_percentage": "54%",
+        "weight": "318 g",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #14,66,142"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Lapguard 6 Cell Laptop Battery for HP Compaq 6710s Dark Blue (LGBTHP6510BBLK06),Lapguard,LGBTHP6510BBLK06_1015_30",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #14,66,142"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Lapguard",
+            "Model": "LGBTHP6510BBLK06_1015_30",
+            "Item_Weight": "318 g",
+            "Product_Dimensions": "203.8 x 53.4 x 21 cm",
+            "Item_model_number": "LGBTHP6510BBLK06_1015_30",
+            "Additional_Features": "Battery With High Quality Protection Circuit Board :: Built-in circuit protection :: Automatic power cut off funcation:: Low power Consumption::Ensure safety and extended battery life::No memory effect::Enviroment friedly::Battery with High quality Grade A cells::charges quickly::Longer Discharge Time::Steady Output::Low Power Consumption::Relible & Safe to Use"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "d1e48af2da89520f5a097bc74fd1af00",
+        "crawl_timestamp": "2020-02-06 23:11:08 +0000",
+        "asin": "B07G6JYHSP",
+        "product_url": "https://www.amazon.in/PCTECH-SVE15128CNB-Compatible-VGP-BPS26-VGP-BPL26/dp/B07G6JYHSP/",
+        "product_name": "PCTECH Laptop Battery for Sony VAIO SVE15128CNB Series Laptops (4000 mAh, 10.8V / 11.1V), Compatible Part Numbers BPS26, VGP-BPS26, BPL26, VGP-BPL26",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/4100RafdMbL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31sD0uYyweL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/4100RafdMbL.jpg|https://images-na.ssl-images-amazon.com/images/I/31sD0uYyweL.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Pctech Computers",
+        "seller_id": "A2QD1MDK7JK6K5",
+        "brand": "PCTECH",
+        "sales_price": 2999.0,
+        "discount_percentage": "25%",
+        "weight": "349 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #27,351"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "PCTECH Laptop Battery for Sony VAIO SVE15128CNB Series Laptops (4000 mAh, 10.8V / 11.1V), Compatible Part Numbers BPS26, VGP-BPS26, BPL26, VGP-BPL26,PCTECH,Sony-SVE15128CNB",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #27,351"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "PCTECH Laptop Battery for Sony Vaio PCG-71811W Series Laptops, Compatible Part Numbers BPS26, VGP-BPS26, BPL26 | PCTECH 4000 mAh BPS26 BPS26A BPL26 VGP-BPS26 VGP-BPL26 for Laptop Replacement Battery for Sony Vaio Laptops | Lap Gadgets Laptop Battery for Sony Vaio VPCCA35FA/PI 6 Cell BPS26 | Swiztek Laplife Bps26 Battery for Sony Vaio VGP-BPL26 VGP-BPS26 VGP-BPS26A VPCEH16EC Sony Vaio CA, CB, EG, EH, EJ, EL Series VPCCA 2011 Models | Lapkit BPS26 Laptop Battery for Sony Vaio (Black) | Lap Gadgets Laptop Battery for Sony Vaio VPCEG25EN 6 Cell BPS26 | PCTECH Laptop Battery for Sony Vaio PCG-71811W Series Laptops, Compatible Part Numbers BPS26, VGP-BPS26, BPL26 | PCTECH 4000 mAh BPS26 BPS26A BPL26 VGP-BPS26 VGP-BPL26 for Laptop Replacement Battery for Sony Vaio Laptops",
+        "technical_details__k_v_pairs": {
+            "Brand": "PCTECH",
+            "Item_Height": "10 Millimeters",
+            "Item_Width": "5 Millimeters",
+            "Item_Weight": "349 g",
+            "Product_Dimensions": "4 x 0.5 x 1 cm",
+            "Item_model_number": "Sony-SVE15128CNB",
+            "Number_of_Lithium_Ion_Cells": "6"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "76fd8167a556e27926a1958546bd2818",
+        "crawl_timestamp": "2020-02-07 08:42:51 +0000",
+        "asin": "B0185ZGWXK",
+        "product_url": "https://www.amazon.in/Lapguard-Laptop-Battery-590543-001-LGBTHPMINI210BLK06/dp/B0185ZGWXK/",
+        "product_name": "Lapguard 6 Cell Laptop Battery for HP 590543-001 Black (LGBTHPMINI210BLK06)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41QKpdR2vlL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51qP-sE10IL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41KZ%2BtBONZL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41m7eF3lydL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/310ZcFrPD0L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51IKcrsi5IL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41QKpdR2vlL.jpg|https://images-na.ssl-images-amazon.com/images/I/51qP-sE10IL.jpg|https://images-na.ssl-images-amazon.com/images/I/41KZ%2BtBONZL.jpg|https://images-na.ssl-images-amazon.com/images/I/41m7eF3lydL.jpg|https://images-na.ssl-images-amazon.com/images/I/310ZcFrPD0L.jpg|https://images-na.ssl-images-amazon.com/images/I/51IKcrsi5IL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61VxcS7Zi4L._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/71KBQ3T1wZL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/61ManEvkwtL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/61bp9o%2B9-9L._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51WU%2BVfdbHL._SL1024_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "omcomputronix",
+        "seller_id": "A1CBS4KWAQDMHH",
+        "brand": "Lapguard",
+        "sales_price": 2027.0,
+        "discount_percentage": "49%",
+        "weight": "304 g",
+        "rating": 2.4,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #12,50,681"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Lapguard 6 Cell Laptop Battery for HP 590543-001 Black (LGBTHPMINI210BLK06),Lapguard,LGBTHPMINI210BLK06_1015_2",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #12,50,681"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Lapguard",
+            "Model": "LGBTHPMINI210BLK06_1015_2",
+            "Item_Weight": "304 g",
+            "Product_Dimensions": "204.7 x 55.9 x 34.9 cm",
+            "Item_model_number": "LGBTHPMINI210BLK06_1015_2",
+            "Additional_Features": "Battery With High Quality Protection Circuit Board::Built-in circuit protection::Automatic power cut off funcation::Low power Consumption::Ensure safety and extended battery life::No memory effect::Enviroment friedly::Battery with High quality Grade A cells::charges quickly::Longer Discharge Time::Steady Output::Low Power Consumption::Relible & Safe to Use"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "d079767cdbca7bcb383bb1c9e3af1c0b",
+        "crawl_timestamp": "2020-02-07 08:42:10 +0000",
+        "asin": "B0185WFL6W",
+        "product_url": "https://www.amazon.in/Lapguard-Replacement-Battery-593554-001-LGBTHPCQ42BLK06/dp/B0185WFL6W/",
+        "product_name": "Lapguard 6 Cell Laptop Battery for HP 593554-001 Black (LGBTHPCQ42BLK06)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41yJ8UcQagL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51QRNNrbrxL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41Fd7LVpSuL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/313XMUD-6zL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41CVV%2BtFyGL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41JvDN7XV2L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41yJ8UcQagL.jpg|https://images-na.ssl-images-amazon.com/images/I/51QRNNrbrxL.jpg|https://images-na.ssl-images-amazon.com/images/I/41Fd7LVpSuL.jpg|https://images-na.ssl-images-amazon.com/images/I/313XMUD-6zL.jpg|https://images-na.ssl-images-amazon.com/images/I/41CVV%2BtFyGL.jpg|https://images-na.ssl-images-amazon.com/images/I/41JvDN7XV2L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/616vf2XPsEL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/71pG0LDzgrL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/61A9Jc-iRxL._SL1024_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "omcomputronix",
+        "seller_id": "A1CBS4KWAQDMHH",
+        "brand": "Lapguard",
+        "sales_price": 2027.0,
+        "discount_percentage": "49%",
+        "weight": "308 g",
+        "rating": 3.6,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #60,233"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Lapguard 6 Cell Laptop Battery for HP 593554-001 Black (LGBTHPCQ42BLK06),Lapguard,LGBTHPCQ42BLK06_1015_1410",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #60,233"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Lapguard",
+            "Colour": "Black",
+            "Item_Height": "20.9 Centimeters",
+            "Item_Width": "52.3 Centimeters",
+            "Item_Weight": "308 g",
+            "Product_Dimensions": "204.9 x 52.3 x 20.9 cm",
+            "Item_model_number": "LGBTHPCQ42BLK06_1015_1410",
+            "Lithium_battery_Voltage": "10.80 Volts",
+            "Number_of_Lithium_Ion_Cells": "6"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "4ca9fea47c1a94f17774b5ab17d50bf8",
+        "crawl_timestamp": "2020-02-07 00:44:02 +0000",
+        "asin": "B07D1NY4Q9",
+        "product_url": "https://www.amazon.in/Laplife-Battery-AL15A32-E5-573G-E5-473G/dp/B07D1NY4Q9/",
+        "product_name": "Laplife Laptop Battery AL15A32 for ACER Aspire E5-573G E5-473G Series",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41OgFIsj9TL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/416QSjleltL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41OgFIsj9TL.jpg|https://images-na.ssl-images-amazon.com/images/I/416QSjleltL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/51HyEJ4qZmL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51nTSmfL8KL._SL1000_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "chotustore",
+        "seller_id": "AE0XQ04GENJES",
+        "brand": "Laplife",
+        "sales_price": 2199.0,
+        "discount_percentage": "44%",
+        "weight": "290 g",
+        "rating": 3.5,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #65,131"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "Laplife Laptop Battery AL15A32 for ACER Aspire E5-573G E5-473G Series,Laplife,swiztekAL15A32",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #65,131"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "SellZone Laptop Battery for ACER AL15A32 Series | Lapix Aspire E5-573G 4 Cell Laptop Battery | Laplife AS16A5K AS16A7K AS16A8K Battery Compatible Acer Aspire E15 E5-575-33BM E5-575G-57D4 E5-575G-53VG E5-576-392H E5-576G-5762 E5-475G E5-575 E5-575G E5-575T E5-774 E5-774G E5-575G Laptop | Lappy Power Laptop Battery for Acer Aspire E5-573G E5-473G-561X (AL15A32) | Lapcare Acer Aspire 4741/4740 6 Cell Compatible Laptop Battery | Secure Devices Al15A32 Laptop Compatible Battery for Acer Aspire Battery ES1-420 421 571 572 V3-574 575 V3-574 575 Series [ 4.8V Capacity: 37Wh] - Black | Mattel Uno Playing Card Game | SellZone Laptop Battery for ACER AL15A32 Series | Lapix Aspire E5-573G 4 Cell Laptop Battery | SellZone Laptop Battery AL15A32 for ACER Aspire E5-573G E5-473G Series",
+        "technical_details__k_v_pairs": {
+            "Brand": "Laplife",
+            "Model": "swiztekAL15A32",
+            "Item_Weight": "290 g",
+            "Package_Dimensions": "36.1 x 11.4 x 5.3 cm",
+            "Batteries_": "4 AA batteries required. (included)",
+            "Item_model_number": "swiztekAL15A32",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "Yes",
+            "Battery_Cell_Composition": "Lithium Ion",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "17e4cea015cdee23aad190579ecbe3f3",
+        "crawl_timestamp": "2020-02-06 23:34:09 +0000",
+        "asin": "B018QZA0IM",
+        "product_url": "https://www.amazon.in/Lapguard-Replacement-Battery-ThinkPad-LGBTLENR61BLK06/dp/B018QZA0IM/",
+        "product_name": "Lapguard 6 Cell Laptop Battery for Lenovo ThinkPad T61 7665 Black (LGBTLENR61BLK06)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41iSp5pBNPL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51PSKe-EDWL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41AXwaspJlL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41GNb6bJdCL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41LoPTyQJ8L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51bKVqkfxqL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41iSp5pBNPL.jpg|https://images-na.ssl-images-amazon.com/images/I/51PSKe-EDWL.jpg|https://images-na.ssl-images-amazon.com/images/I/41AXwaspJlL.jpg|https://images-na.ssl-images-amazon.com/images/I/41GNb6bJdCL.jpg|https://images-na.ssl-images-amazon.com/images/I/41LoPTyQJ8L.jpg|https://images-na.ssl-images-amazon.com/images/I/51bKVqkfxqL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61te59EipdL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/71XmgolY29L._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/616OQpuSZWL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51Nd2o7SBSL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51hj0EWldKL._SL1024_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "omcomputronix",
+        "seller_id": "A1CBS4KWAQDMHH",
+        "brand": "Lapguard",
+        "sales_price": 1843.0,
+        "discount_percentage": "54%",
+        "weight": "349 g",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #4,60,524"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Lapguard 6 Cell Laptop Battery for Lenovo ThinkPad T61 7665 Black (LGBTLENR61BLK06),Lapguard,LGBTLENR61BLK06_1115_58",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #4,60,524"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Lapcare Lenovo Ideapad G460 G560 Z560 Compatible Laptop Battery (Black) | Lenovo ThinkPad 9-Cell 70 Battery (0A36303) | Lenovo 4 Cell Laptop Battery for IDEAPAD G50/30/80 Z40 Z70-70/80 | Lenovo OEM Battery for Select Laptop / Notebook / Compatible with ThinkPad T440S T440s 20AQ T440s 20AR X240 0C52862 45N1135, 45N1136 | Lenovo 0A36302 Battery 70+ 6 Cell Primary Battery for Thinkpad Systems | Lenovo Battery for IdeaPad G400S G405S G510S G500S G505S S410P S510P Touch Z710 Eraser G50-80",
+        "technical_details__k_v_pairs": {
+            "Brand": "Lapguard",
+            "Model": "LGBTLENR61BLK06_1115_58",
+            "Item_Weight": "349 g",
+            "Product_Dimensions": "224.3 x 65 x 20.2 cm",
+            "Item_model_number": "LGBTLENR61BLK06_1115_58",
+            "Additional_Features": "Battery With High Quality Protection Circuit Board :: Built-in circuit protection :: Automatic power cut off funcation:: Low power Consumption::Ensure safety and extended battery life::No memory effect::Enviroment friedly::Battery with High quality Grade A cells::charges quickly::Longer Discharge Time::Steady Output::Low Power Consumption::Relible & Safe to Use",
+            "Batteries_Included": "Yes",
+            "Battery_Cell_Composition": "Lithium Ion"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "ca99b79f1e01343359a14377640da292",
+        "crawl_timestamp": "2020-02-06 17:40:24 +0000",
+        "asin": "B07R94J3KM",
+        "product_url": "https://www.amazon.in/SellZone-Compatible-Toshiba-PA3533-1BRS/dp/B07R94J3KM/",
+        "product_name": "SellZone Laptop Battery Compatible for Toshiba PA3533 1BRS Laptop",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41c6-ft%2BrQL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41c6-ft%2BrQL.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "HP Mobile",
+        "seller_id": "A47X3UFG8SUD6",
+        "brand": "SellZone",
+        "sales_price": 1578.0,
+        "discount_percentage": "46%",
+        "weight": "999999999",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #19,33,439"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "SellZone Laptop Battery Compatible for Toshiba PA3533 1BRS Laptop,SellZone,Toshiba PA3533 1BRS",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #19,33,439"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "Toshiba PA3533 1BRS",
+            "Item_model_number": "Toshiba PA3533 1BRS"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "f165a15be2097315ad73967416344eaf",
+        "crawl_timestamp": "2020-02-07 08:42:55 +0000",
+        "asin": "B01JIGNI64",
+        "product_url": "https://www.amazon.in/Acer-Mini-ZA3-Capacity-Extended/dp/B01JIGNI64/",
+        "product_name": "4d Laptop Battery for Acer Mini ZA3 Battery UM09A75 UM09B73 ZG8 ZA3 6-Cells Netbook High Capacity Extended Battery 5200mAh for Acer Laptop 11.6 inch Aspire One 751 751H AO751 AO751H Series",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/310kO%2BNDrwL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/313sPka0xeL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/416GOkJ58DL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/310kO%2BNDrwL.jpg|https://images-na.ssl-images-amazon.com/images/I/313sPka0xeL.jpg|https://images-na.ssl-images-amazon.com/images/I/416GOkJ58DL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/41fbE-BQMCL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51roD-uEcWL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/61inGfPbw1L._SL1000_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "4D INDIATEQ LIMITED",
+        "seller_id": "A28SQST3HLD23G",
+        "brand": "4 D (LABEL)",
+        "sales_price": 1599.0,
+        "discount_percentage": "54%",
+        "weight": "399 g",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #89,466"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "4d Laptop Battery for Acer Mini ZA3 Battery UM09A75 UM09B73 ZG8 ZA3 6-Cells Netbook High Capacity Extended Battery 5200mAh for Acer Laptop 11.6 inch Aspire One 751 751H AO751 AO751H Series,4d,Acer Mini ZA3",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #89,466"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "4 D (LABEL)",
+            "Colour": "Black",
+            "Item_Height": "30 Millimeters",
+            "Item_Width": "6 Centimeters",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "25 x 6 x 3 cm",
+            "Item_model_number": "Acer Mini ZA3",
+            "Battery_Description": "battery_type_lithium_ion",
+            "Average_Battery_Life__in_hours_": "3 Hours"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "1e321b7b93d6aa22a985f6b8d967a439",
+        "crawl_timestamp": "2020-02-07 07:32:03 +0000",
+        "asin": "B07K31HLR8",
+        "product_url": "https://www.amazon.in/Generic-Laptop-Battery-Replacement-SVE151J11W/dp/B07K31HLR8/",
+        "product_name": "Generic Laptop Battery for Sony VAIO SVE151J11W Laptop",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/31GDxctL01L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41cRvyhyI7L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41kK96K2dFL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31t3CBDFaUL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/31GDxctL01L.jpg|https://images-na.ssl-images-amazon.com/images/I/41cRvyhyI7L.jpg|https://images-na.ssl-images-amazon.com/images/I/41kK96K2dFL.jpg|https://images-na.ssl-images-amazon.com/images/I/31t3CBDFaUL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61-5sojc3oL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61X%2BXt2rgzL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61KfumWNEZL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/61x-bleV2cL._SL1500_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Ekart9",
+        "seller_id": "A1VMTLJK047M6D",
+        "brand": "Generic",
+        "sales_price": 2550.0,
+        "discount_percentage": "46%",
+        "weight": "999999999",
+        "rating": 4.5,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #4,24,808"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Generic Laptop Battery for Sony VAIO SVE151J11W Laptop,Generic,SVE151J11W",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #4,24,808"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Generic",
+            "Model": "SVE151J11W",
+            "Item_model_number": "SVE151J11W",
+            "Included_Components": "Battery",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "Yes",
+            "Battery_Cell_Composition": "Lithium Ion"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "4a3c37e44d880947a5abfd762472e114",
+        "crawl_timestamp": "2020-02-07 02:37:57 +0000",
+        "asin": "B019JYM32U",
+        "product_url": "https://www.amazon.in/Techie-Pavilion-dv4-4140us-Compatible-HP/dp/B019JYM32U/",
+        "product_name": "Techie Pavilion dv4-4140us Battery Compatible with HP CQ42 Laptop Battery",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41-grzItRtL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41PPGQpwm1L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41-grzItRtL.jpg|https://images-na.ssl-images-amazon.com/images/I/41PPGQpwm1L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/51Qdm3fucyL._SL1022_.jpg|https://images-na.ssl-images-amazon.com/images/I/51Byy30-bjL._SL1024_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "24x7shoponline",
+        "seller_id": "A1305GLL3WU5GA",
+        "brand": "Techie",
+        "sales_price": 1899.0,
+        "weight": "399 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #1,95,458"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Techie Pavilion dv4-4140us Battery Compatible with HP CQ42 Laptop Battery,Techie,For HP Pavilion dv4-4140us",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #1,95,458"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Techie",
+            "Colour": "Black",
+            "Item_Height": "20 Millimeters",
+            "Item_Width": "40 Millimeters",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "21 x 4 x 2 cm",
+            "Batteries_": "1 Lithium ion batteries required.",
+            "Item_model_number": "For HP Pavilion dv4-4140us",
+            "Lithium_battery_Voltage": "10.80 Volts"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "b741e0b268acb7f49ab68851e865ff00",
+        "crawl_timestamp": "2020-02-06 19:36:07 +0000",
+        "asin": "B07L26WMKW",
+        "product_url": "https://www.amazon.in/Generic-Laptop-Battery-Pavilion-B140TX/dp/B07L26WMKW/",
+        "product_name": "Generic Laptop Battery for HP Pavilion 15 B140TX",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/31Pm4IegeKL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31paQZ7joEL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31PkLshP4jL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/21ePRjTNG2L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/31Pm4IegeKL.jpg|https://images-na.ssl-images-amazon.com/images/I/31paQZ7joEL.jpg|https://images-na.ssl-images-amazon.com/images/I/31PkLshP4jL.jpg|https://images-na.ssl-images-amazon.com/images/I/21ePRjTNG2L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/51d9y0ZiwnL._SL1000_.jpg|https://images-na.ssl-images-amazon.com/images/I/51ZSvLWf5SL._SL1400_.jpg|https://images-na.ssl-images-amazon.com/images/I/51CKalrRVJL._SL1400_.jpg|https://images-na.ssl-images-amazon.com/images/I/51t9aSuQ5YL._SL1500_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Ekart9",
+        "seller_id": "A1VMTLJK047M6D",
+        "brand": "Generic",
+        "sales_price": 1613.0,
+        "discount_percentage": "54%",
+        "weight": "999999999",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #13,67,654"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Generic Laptop Battery for HP Pavilion 15 B140TX,Generic,15-B140TX",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #13,67,654"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Generic",
+            "Model": "15-B140TX",
+            "Item_model_number": "15-B140TX",
+            "Included_Components": "1 Battery",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "Yes",
+            "Battery_Cell_Composition": "Lithium Ion"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "6a8fc0356cc1adb25a2dc54f5ade0d6f",
+        "crawl_timestamp": "2020-02-07 00:45:32 +0000",
+        "asin": "B0185W15YO",
+        "product_url": "https://www.amazon.in/Lapguard-Replacement-Battery-A32-K53-LGBTA32K53BLK06/dp/B0185W15YO/",
+        "product_name": "Lapguard 6 Cell Laptop Battery for Asus A32-K53 Black (LGBTA32K53BLK06)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41%2BBZfAiNzL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51%2B3XqcSWLL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41faIsHybOL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41hvQDHbx%2BL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41nPNuxG65L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51nJbXc1KJL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41%2BBZfAiNzL.jpg|https://images-na.ssl-images-amazon.com/images/I/51%2B3XqcSWLL.jpg|https://images-na.ssl-images-amazon.com/images/I/41faIsHybOL.jpg|https://images-na.ssl-images-amazon.com/images/I/41hvQDHbx%2BL.jpg|https://images-na.ssl-images-amazon.com/images/I/41nPNuxG65L.jpg|https://images-na.ssl-images-amazon.com/images/I/51nJbXc1KJL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61xUsjyJDpL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/71f-pur8ujL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/610ul7oEnzL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51WCObtTiAL._SL1024_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "omcomputronix",
+        "seller_id": "A1CBS4KWAQDMHH",
+        "brand": "Lapguard",
+        "sales_price": 2212.0,
+        "discount_percentage": "45%",
+        "weight": "318 g",
+        "rating": 3.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #8,45,851"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Lapguard 6 Cell Laptop Battery for Asus A32-K53 Black (LGBTA32K53BLK06),Lapguard,LGBTA32K53BLK06_1015_192",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #8,45,851"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Lapguard",
+            "Model": "LGBTA32K53BLK06_1015_192",
+            "Item_Weight": "318 g",
+            "Product_Dimensions": "269.2 x 49.9 x 23 cm",
+            "Item_model_number": "LGBTA32K53BLK06_1015_192",
+            "Additional_Features": "Battery With High Quality Protection Circuit Board :: Built-in circuit protection :: Automatic power cut off funcation:: Low power Consumption::Ensure safety and extended battery life::No memory effect::Enviroment friedly::Battery with High quality Grade A cells::charges quickly::Longer Discharge Time::Steady Output::Low Power Consumption::Relible & Safe to Use"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "5377bee8c57c9cc9873d822c2c09c524",
+        "crawl_timestamp": "2020-02-06 21:11:30 +0000",
+        "asin": "B007HR7X8G",
+        "product_url": "https://www.amazon.in/Dell-Battery-Latitude-Laptop-312-1239/dp/B007HR7X8G/",
+        "product_name": "Dell Battery for Latitude E6320 Laptop 312-1239 Wj383 K4Cp5.",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41CYWp1EpDL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/412qziHXtIL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41eFBoBknZL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41CYWp1EpDL.jpg|https://images-na.ssl-images-amazon.com/images/I/412qziHXtIL.jpg|https://images-na.ssl-images-amazon.com/images/I/41eFBoBknZL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/9177tG5T6AL._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/9192dfVyZ7L._SL1500_.jpg|https://images-na.ssl-images-amazon.com/images/I/916b91IGmjL._SL1500_.jpg",
+        "browsenode": 1375315031,
+        "brand": "Dell",
+        "sales_price": 3899.0,
+        "weight": "721 g",
+        "rating": 3.4,
+        "sales_rank_in_parent_category": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #13,001"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Dell Battery for Latitude E6320 Laptop 312-1239 Wj383 K4Cp5.,Dell Computers,K4CP5,Dell K4CP5 laptop,Dell laptop,computer,notebook computer",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "ComputersAccessories": "Amazon Bestsellers Rank #13,001"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "dell 6 Cell 65 Whr 11.1v Battery for Latitude E6120 E6220 E6230 E6320 Xfr E6330 E5220 E5230 E5320 E5330 Laptop | LRSA TECHNOLOGY PVT. LRSA TECHNOLOGY Laptop Battery for Dell E6230 E6220 E6320 E6330 E6430 | Dell Battery for Latitude E6230 E6220 E6320 E6330 E6430s | LRSA TECHNOLOGY Laptop Battery Compatible for Dell E6230 E6220 E6320 E6330 E6430s | Dell inspiron Series 6cell Battery Black | Lapcare DV2000 Laptop Battery for HP Pavilion (Black) | Dell Latitude Premium 90W Laptop AC Adapter and Battery Charger | dell 6 Cell 65 Whr 11.1v Battery for Latitude E6120 E6220 E6230 E6320 Xfr E6330 E5220 E5230 E5320 E5330 Laptop | LRSA TECHNOLOGY PVT. LRSA TECHNOLOGY Laptop Battery for Dell E6230 E6220 E6320 E6330 E6430",
+        "technical_details__k_v_pairs": {
+            "Brand": "Dell",
+            "Colour": "Black",
+            "Item_Weight": "721 g",
+            "Package_Dimensions": "42.6 x 27 x 8.6 cm",
+            "Item_model_number": "K4CP5",
+            "Hardware_Platform": "PC",
+            "Number_of_Lithium_Ion_Cells": "3",
+            "Included_Components": "Main Unit"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "e871f20f18bbd98ab76e63d9c41e6256",
+        "crawl_timestamp": "2020-02-07 02:07:02 +0000",
+        "asin": "B07FRQ6Q31",
+        "product_url": "https://www.amazon.in/SellZone-Battery-HP-Pavilion-15-AB225TX/dp/B07FRQ6Q31/",
+        "product_name": "SellZone Laptop Battery for HP Pavilion 15-AB225TX",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41Uyux19xYL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31VHkN6MaML._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/31Cztrsfr2L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41Uyux19xYL.jpg|https://images-na.ssl-images-amazon.com/images/I/31VHkN6MaML.jpg|https://images-na.ssl-images-amazon.com/images/I/31Cztrsfr2L.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "SellZone",
+        "sales_price": 2489.0,
+        "discount_percentage": "50%",
+        "weight": "200 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #21,16,249"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "SellZone Laptop Battery for HP Pavilion 15-AB225TX,Generic,HP Pavilion 15-AB225TX",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #21,16,249"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "HP Pavilion 15-AB225TX",
+            "Item_Weight": "200 g",
+            "Package_Dimensions": "5 x 5 x 5 cm",
+            "Batteries_": "1 Lithium ion batteries required. (included)",
+            "Item_model_number": "HP Pavilion 15-AB225TX",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "Yes",
+            "Battery_Cell_Composition": "Lithium Ion"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "3df42864809c8a0902098c55bf670231",
+        "crawl_timestamp": "2020-02-07 02:13:59 +0000",
+        "asin": "B07VCTQ2VV",
+        "product_url": "https://www.amazon.in/SellZone-Battery-Sony-VAIO-SVE151L11W/dp/B07VCTQ2VV/",
+        "product_name": "SellZone Laptop Battery for Sony VAIO SVE151L11W Laptop",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41swoUXhM4L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41swoUXhM4L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61REZnkxRoL._SL1500_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "Online SBS",
+        "seller_id": "A5I6FZRPKX1UT",
+        "brand": "SellZone",
+        "sales_price": 2499.0,
+        "discount_percentage": "38%",
+        "weight": "349 g",
+        "rating": 4.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #12,22,938"
+        },
+        "delivery_type": "fulfilled_by_amazon",
+        "meta_keywords": "SellZone Laptop Battery for Sony VAIO SVE151L11W Laptop,SellZone,Sony VAIO SVE151L11W",
+        "amazon_prime__y_or_n": "Y",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #12,22,938"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "SellZone",
+            "Model": "Sony VAIO SVE151L11W",
+            "Item_Weight": "349 g",
+            "Product_Dimensions": "18 x 14 x 4 cm",
+            "Batteries_": "1 Lithium ion batteries required. (included)",
+            "Item_model_number": "Sony VAIO SVE151L11W",
+            "Batteries_Included": "Yes",
+            "Batteries_Required": "Yes",
+            "Battery_Cell_Composition": "Lithium Ion"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "6d900049d6aa2e42c7957e394730b6c1",
+        "crawl_timestamp": "2020-02-06 23:34:00 +0000",
+        "asin": "B018QZDQCY",
+        "product_url": "https://www.amazon.in/Lapguard-Replacement-Battery-PA5026U-1BRS-LGBTT5024BLK06/dp/B018QZDQCY/",
+        "product_name": "Lapguard 6 Cell Laptop Battery for Toshiba PA5026U-1BRS Black (LGBTT5024BLK06)",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/41WRfOzBO1L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/51LSs9VUFSL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41Me4mdcHzL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41TtE4LDQRL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41wppAI3YfL._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/5198ttO6TXL._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/41WRfOzBO1L.jpg|https://images-na.ssl-images-amazon.com/images/I/51LSs9VUFSL.jpg|https://images-na.ssl-images-amazon.com/images/I/41Me4mdcHzL.jpg|https://images-na.ssl-images-amazon.com/images/I/41TtE4LDQRL.jpg|https://images-na.ssl-images-amazon.com/images/I/41wppAI3YfL.jpg|https://images-na.ssl-images-amazon.com/images/I/5198ttO6TXL.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/61%2BPFMVDQQL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/71lWZ0ZlWnL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/61Zz1mHSS%2BL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51c8s3I4QuL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/61z2ikHcDiL._SL1024_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "omcomputronix",
+        "seller_id": "A1CBS4KWAQDMHH",
+        "brand": "Lapguard",
+        "sales_price": 1843.0,
+        "discount_percentage": "54%",
+        "weight": "295 g",
+        "rating": 5.0,
+        "sales_rank_in_parent_category": {
+            "Electronics": "Amazon Bestsellers Rank #11,28,298"
+        },
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Lapguard 6 Cell Laptop Battery for Toshiba PA5026U-1BRS Black (LGBTT5024BLK06),Lapguard,LGBTT5024BLK06_1115_4",
+        "amazon_prime__y_or_n": "N",
+        "parent___child_category__all": {
+            "Electronics": "Amazon Bestsellers Rank #11,28,298"
+        },
+        "best_seller_tag__y_or_n": "N",
+        "other_items_customers_buy": "Laptop Battery for Toshiba Satellite PA3817U-1BRS A660 A665 A665D C640 C650 C650D L740 L745 L745D L700 L700D L735 Series",
+        "technical_details__k_v_pairs": {
+            "Brand": "Lapguard",
+            "Model": "LGBTT5024BLK06_1115_4",
+            "Item_Weight": "295 g",
+            "Product_Dimensions": "254 x 152 x 102 cm",
+            "Item_model_number": "LGBTT5024BLK06_1115_4",
+            "Additional_Features": "Battery With High Quality Protection Circuit Board :: Built-in circuit protection :: Automatic power cut off funcation:: Low power Consumption::Ensure safety and extended battery life::No memory effect::Enviroment friedly::Battery with High quality Grade A cells::charges quickly::Longer Discharge Time::Steady Output::Low Power Consumption::Relible & Safe to Use",
+            "Batteries_Included": "No",
+            "Batteries_Required": "No",
+            "Has_Auto_Focus": "No",
+            "Programmable_Buttons": "No"
+        },
+        "cluster": 5
+    },
+    {
+        "uniq_id": "8cb2dd0c16067efe0826928fcf01801f",
+        "crawl_timestamp": "2020-02-07 02:44:11 +0000",
+        "asin": "B019IBKRC2",
+        "product_url": "https://www.amazon.in/Techie-PH09-Battery-HP-Laptop/dp/B019IBKRC2/",
+        "product_name": "Techie PH09 Battery for HP 4320 Laptop Battery",
+        "image_urls__small": "https://images-na.ssl-images-amazon.com/images/I/419hSicAO8L._SS40_.jpg|https://images-na.ssl-images-amazon.com/images/I/41PPGQpwm1L._SS40_.jpg",
+        "medium": "https://images-na.ssl-images-amazon.com/images/I/419hSicAO8L.jpg|https://images-na.ssl-images-amazon.com/images/I/41PPGQpwm1L.jpg",
+        "large": "https://images-na.ssl-images-amazon.com/images/I/51I1DRIyqVL._SL1024_.jpg|https://images-na.ssl-images-amazon.com/images/I/51Byy30-bjL._SL1024_.jpg",
+        "browsenode": 1375315031,
+        "seller_name": "24x7shoponline",
+        "seller_id": "A1305GLL3WU5GA",
+        "brand": "Techie",
+        "sales_price": 1899.0,
+        "weight": "399 g",
+        "rating": 5.0,
+        "delivery_type": "fulfilled_by_merchant",
+        "meta_keywords": "Techie PH09 Battery for HP 4320 Laptop Battery,Techie,for HP PH09",
+        "amazon_prime__y_or_n": "N",
+        "best_seller_tag__y_or_n": "N",
+        "technical_details__k_v_pairs": {
+            "Brand": "Techie",
+            "Colour": "Black",
+            "Item_Height": "20 Millimeters",
+            "Item_Width": "40 Millimeters",
+            "Item_Weight": "399 g",
+            "Product_Dimensions": "21 x 4 x 2 cm",
+            "Batteries_": "1 Lithium ion batteries required.",
+            "Item_model_number": "for HP PH09",
+            "Lithium_battery_Voltage": "10.80 Volts"
+        },
+        "cluster": 5
+    }
+]

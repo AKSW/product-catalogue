@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>File Input</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+  </head>
+  <script src="FileSaver.js"></script>
+
+  <body>
+    <header>
+      <img
+        width="50em"
+        style="float: left; margin-left: 2em"
+        src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNTUgNTUiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDU1IDU1OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBkPSJNNDksMGMtMy4zMDksMC02LDIuNjkxLTYsNmMwLDEuMDM1LDAuMjYzLDIuMDA5LDAuNzI2LDIuODZsLTkuODI5LDkuODI5QzMyLjU0MiwxNy42MzQsMzAuODQ2LDE3LDI5LDE3DQoJcy0zLjU0MiwwLjYzNC00Ljg5OCwxLjY4OGwtNy42NjktNy42NjlDMTYuNzg1LDEwLjQyNCwxNyw5Ljc0LDE3LDljMC0yLjIwNi0xLjc5NC00LTQtNFM5LDYuNzk0LDksOXMxLjc5NCw0LDQsNA0KCWMwLjc0LDAsMS40MjQtMC4yMTUsMi4wMTktMC41NjdsNy42NjksNy42NjlDMjEuNjM0LDIxLjQ1OCwyMSwyMy4xNTQsMjEsMjVzMC42MzQsMy41NDIsMS42ODgsNC44OTdMMTAuMDI0LDQyLjU2Mg0KCUM4Ljk1OCw0MS41OTUsNy41NDksNDEsNiw0MWMtMy4zMDksMC02LDIuNjkxLTYsNnMyLjY5MSw2LDYsNnM2LTIuNjkxLDYtNmMwLTEuMDM1LTAuMjYzLTIuMDA5LTAuNzI2LTIuODZsMTIuODI5LTEyLjgyOQ0KCWMxLjEwNiwwLjg2LDIuNDQsMS40MzYsMy44OTgsMS42MTl2MTAuMTZjLTIuODMzLDAuNDc4LTUsMi45NDItNSw1LjkxYzAsMy4zMDksMi42OTEsNiw2LDZzNi0yLjY5MSw2LTZjMC0yLjk2Ny0yLjE2Ny01LjQzMS01LTUuOTENCgl2LTEwLjE2YzEuNDU4LTAuMTgzLDIuNzkyLTAuNzU5LDMuODk4LTEuNjE5bDcuNjY5LDcuNjY5QzQxLjIxNSwzOS41NzYsNDEsNDAuMjYsNDEsNDFjMCwyLjIwNiwxLjc5NCw0LDQsNHM0LTEuNzk0LDQtNA0KCXMtMS43OTQtNC00LTRjLTAuNzQsMC0xLjQyNCwwLjIxNS0yLjAxOSwwLjU2N2wtNy42NjktNy42NjlDMzYuMzY2LDI4LjU0MiwzNywyNi44NDYsMzcsMjVzLTAuNjM0LTMuNTQyLTEuNjg4LTQuODk3bDkuNjY1LTkuNjY1DQoJQzQ2LjA0MiwxMS40MDUsNDcuNDUxLDEyLDQ5LDEyYzMuMzA5LDAsNi0yLjY5MSw2LTZTNTIuMzA5LDAsNDksMHoiLz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjwvc3ZnPg0K"
+      />
+      <h1
+        style="
+          margin-left: 0.8em;
+          margin-top: 0.5em;
+          float: left;
+          font-size: 1.3em;
+        "
+      >
+        RDF Productontology Serializer
+      </h1>
+    </header>
+
+    <div class="sidenav">
+      <div class="navelements">
+        <div id="menu">
+          <ul class="navbar-nav">
+            <li
+              id="About_link_bg"
+              style="
+                height: 2.5em;
+                width: 12em;
+                background-color: #16294b;
+                padding-top: 0.5em;
+                padding-bottom: 0.5em;
+              "
+            >
+              <a
+                id="About_link"
+                style="color: rgb(192, 202, 229)"
+                href="#"
+                onclick="makeVisible(`About`)"
+                >About</a
+              >
+            </li>
+            <li
+              id="Upload_link_bg"
+              style="
+                height: 2.5em;
+                width: 11.5em;
+                padding-top: 0.5em;
+                padding-bottom: 0.5em;
+              "
+            >
+              <a id="Upload_link" href="#" onclick="makeVisible(`Upload`)"
+                >Upload file</a
+              >
+            </li>
+            <li
+              id="Prefixes_link_bg"
+              style="
+                height: 2.5em;
+                width: 11.5em;
+                padding-top: 0.5em;
+                padding-bottom: 0.5em;
+              "
+            >
+              <a id="Prefixes_link" href="#" onclick="makeVisible(`Prefixes`)"
+                >Add prefixes</a
+              >
+            </li>
+            <li
+              id="Props_link_bg"
+              style="
+                height: 2.5em;
+                width: 11.5em;
+                padding-top: 0.5em;
+                padding-bottom: 0.5em;
+              "
+            >
+              <a id="Props_link" href="#" onclick="makeVisible(`Props`)"
+                >Define properties</a
+              >
+            </li>
+            <li
+              id="Download_link_bg"
+              style="
+                height: 2.5em;
+                width: 11.5em;
+                padding-top: 0.5em;
+                padding-bottom: 0.5em;
+              "
+            >
+              <a id="Download_link" href="#" onclick="makeVisible(`Download`)"
+                >Generate Turtle</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="wrapper">
+      <div
+        id="About"
+        style="
+          padding-left: 18em;
+          padding-top: 7.4em;
+          padding-right: 1.5em;
+          margin: 0;
+          visibility: visible;
+          position: absolute;
+          z-index: 1;
+          left: 0;
+          right: 0;
+          margin-left: auto;
+          margin-right: auto;
+        "
+      >
+        <!--test-->
+        <div class="content">
+          <p style="text-align: left">
+            RDF Productontology Serializer is a Tool to serialize CSV and JSON
+            product datasets in RDF syntax Turtle with a chosen vocabulary.
+          </p>
+          <h4 style="margin-bottom: 1em; margin-top: 2em">
+            Transform your dataset in only 4 simple steps:
+          </h4>
+
+          <ol style="text-align: left" class="numbered-list">
+            <div>
+              <li>
+                <span
+                  >Upload your CSV/JSON dataset. All dataset attributes will be
+                  extracted and listed by their quantity.</span
+                >
+              </li>
+              <li>
+                <span
+                  >Add the prefixes of the vocabulary you would like to use to
+                  describe the values of the dataset attributes.</span
+                >
+              </li>
+              <li>
+                <span
+                  >Define the ontology terms you would like to use to decribe
+                  the extracted dataset attributes.</span
+                >
+              </li>
+              <li><span>Finished! Download your Turtle file.</span></li>
+            </div>
+          </ol>
+        </div>
+        <div class="footer">
+          Icons made by
+          <a href="https://smashicons.com/" title="Smashicons">Smashicons</a>
+          from
+          <a href="https://www.flaticon.com/" title="Flaticon"
+            >www.flaticon.com</a
+          >
+        </div>
+      </div>
+
+      <div
+        id="Upload"
+        style="
+          position: absolute;
+          z-index: 1;
+          top: 0;
+          margin-top: 8em;
+          visibility: hidden;
+        "
+      >
+        <div class="content">
+          <h3 style="margin-bottom: 0.7em">Upload your JSON or CSV dataset</h3>
+          <p>
+            Please note that JSON datasets must have the following structure:
+          </p>
+          <img src="json_example.png" width="300em" />
+          <div style="padding-top: 1.5em">
+            <form
+              action="formular_verarbeiten.php"
+              method="post"
+              enctype="multipart/form-data"
+            >
+              <input
+                name="fileInput"
+                type="file"
+                id="fileInput"
+                accept="application/json,text/csv"
+              />
+            </form>
+          </div>
+          <div style="margin-top: 2em" id="fileaccept">
+            <p id="fileaccepted" style="visibility: hidden">
+              File accepted. You can go to the next step and define your
+              prefixes.
+            </p>
+            <p id="filenotaccepted" style="visibility: hidden">
+              File not accepted. Make sure that your dataset has the correct
+              structure.
+            </p>
+          </div>
+        </div>
+        <div class="footer">
+          Icons made by
+          <a href="https://smashicons.com/" title="Smashicons">Smashicons</a>
+          from
+          <a href="https://www.flaticon.com/" title="Flaticon"
+            >www.flaticon.com</a
+          >
+        </div>
+      </div>
+
+      <div
+        id="Prefixes"
+        style="
+          position: absolute;
+          z-index: 1;
+          top: 0;
+          margin-top: 8em;
+          visibility: hidden;
+        "
+      >
+        <div class="content">
+          <h3 style="margin-bottom: 0.7em">
+            Add all needed prefixes and the namespaces
+          </h3>
+          <p style="padding-bottom: 1em">
+            All added prefixes will be included in your Turtle file. If there
+            are no further prefixes needed you can skip this step.
+          </p>
+          <form>
+            <table
+              id="prefixtbl"
+              class="table table-bordered"
+              style="border-collapse: collapse; border: none; width: 41em"
+            >
+              <tr>
+                <th scope="col" style="width: 10em">Prefix</th>
+                <th scope="col" style="width: 30em">Namespace</th>
+                <th scope="col" style="width: 1em; border: none"></th>
+              </tr>
+              <tr>
+                <td>schema:</td>
+                <td>http://schema.org/</td>
+                <td style="width: 1em; border: none"></td>
+              </tr>
+              <tr>
+                <td>rdfs:</td>
+                <td>http://www.w3.org/2000/01/rdf-schema#</td>
+                <td style="width: 1em; border: none"></td>
+              </tr>
+              <tr>
+                <td>xsd:</td>
+                <td>http://www.w3.org/2001/XMLSchema#</td>
+                <td style="width: 1em; border: none"></td>
+              </tr>
+            </table>
+          </form>
+          <input
+            style="margin-top: 0.6em"
+            class="btn"
+            type="button"
+            value="+"
+            onclick="AddRow('prefixtbl')"
+          />
+          <input
+            style="margin-top: 0.6em"
+            class="btn"
+            type="button"
+            value="&#10003;"
+            onclick="makeVisible(`Props`)"
+          />
+        </div>
+        <div class="footer">
+          Icons made by
+          <a href="https://smashicons.com/" title="Smashicons">Smashicons</a>
+          from
+          <a href="https://www.flaticon.com/" title="Flaticon"
+            >www.flaticon.com</a
+          >
+        </div>
+      </div>
+
+      <div
+        id="Props"
+        style="
+          position: absolute;
+          z-index: 1;
+          top: 0;
+          margin-top: 8em;
+          visibility: hidden;
+        "
+      >
+        <div class="content">
+          <div id="PropSection" style="text-align: center">
+            <div>
+              No dataset attributes extracted yet. Please
+              <a href="#" onclick="makeVisible(`Upload`)">upload a dataset</a>
+              first.
+            </div>
+          </div>
+          <div>
+            <form action="formular_verarbeiten.php" method="post">
+              <table id="myTable" class="table table-bordered"></table>
+            </form>
+          </div>
+          <div id="AllPropsAdded"></div>
+        </div>
+        <div class="footer">
+          Icons made by
+          <a href="https://smashicons.com/" title="Smashicons">Smashicons</a>
+          from
+          <a href="https://www.flaticon.com/" title="Flaticon"
+            >www.flaticon.com</a
+          >
+        </div>
+      </div>
+
+      <script src="index.js"></script>
+
+      <div
+        id="Download"
+        style="
+          position: absolute;
+          z-index: 1;
+          top: 0;
+          margin-top: 8em;
+          visibility: hidden;
+        "
+      >
+        <div class="content">
+          <div id="Submit">
+            No file created yet. Please
+            <a href="#" onclick="makeVisible(`Upload`)">upload a dataset</a>
+            first.
+          </div>
+          <div id="downloadStarted"></div>
+        </div>
+        <div class="footer">
+          Icons made by
+          <a href="https://smashicons.com/" title="Smashicons">Smashicons</a>
+          from
+          <a href="https://www.flaticon.com/" title="Flaticon"
+            >www.flaticon.com</a
+          >
+        </div>
+
+        <p id="turtle"></p>
+      </div>
+    </div>
+  </body>
+</html>

@@ -10,7 +10,7 @@ This included the following tasks
 - Transformation of data from JSON/CSV to Turtle
 - Extraction of implicit product attributes using supervised machine learning
 
-# Product Ontology
+## Product Ontology
 
 Various published rdf vocabularies for product data were considered, compared and evaluated. 
 
@@ -31,4 +31,28 @@ The following diagram shows the number of 100 % matches between the ontologies w
 
 Since an evaluation showed that Schema.org is best suited for the purposes of this master thesis and provides sufficient descriptive resources to describe all product attributes, this vocabulary was used exclusively in this project.
 
--- in progress --
+##  Product Data
+
+To enable a domain-specific product search, data sources for products with very specific product attributes were needed. The decision was made to use the sample data set from the Amazon Electronics Dataset 2020 (https://data.world/promptcloud/amazon-electronics-dataset-2020) and the data from the EcoTopTen database (https://www.ecotopten.de).
+
+## Text Classification
+
+Since it was noticed that the product category was missing in the Amazon Electronics dataset, text classification algorithms were applied to extract it. Naive Bayes Classification and Support Vector Classification were used for this purpose.
+
+## Clustering
+
+In order to assemble a training dataset for product classification that has the highest possible variance and no unbalanced classes, clustering was performed beforehand. For this, the KMeans algorithm was applied in several iterations - until the clusters were homogeneous enough. Then, from each cluster, random examples were inserted into the training dataset.
+
+The algoithms achieved the following accuracies and run times: 
+
+Since the accuracy was higher for Support Vector Classification, the model formed in this process was applied to the entire dataset to insert the product categories. 
+
+-- insert table --
+
+## RDF Produktontology Serializer
+
+To be able to build an RDF knowledge base from the JSON and CSV data, a web application was developed. The web application allows easy transformation of datasets from their original format into the RDF syntax Turtle. To do this, the user simply needs to map the dataset attributes with RDF vocabulary.
+
+## Product Search
+
+To enable domain-specific adaptive product search, the generated RDF data was provided via a SPARQL endpoint and the SANTé semantic search engine built by Edgard Marx (https://github.com/AKSW/sante).
