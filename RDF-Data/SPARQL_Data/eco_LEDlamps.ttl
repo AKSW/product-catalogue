@@ -1,5 +1,5 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
-@prefix schema: <http://schema.org/> . 
+@prefix schema: <https://schema.org/> . 
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <https://www.ecotopten.de/beleuchtung/led-lampen/girard-sudron-3125460286317>
