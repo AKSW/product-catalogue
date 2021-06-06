@@ -27,7 +27,7 @@ These are independent projects, whereas GoodRelations is largely integrated into
 
 The following diagram shows the number of 100 % matches between the ontologies which could be detected by a semiautomatic ontology matching using AgreementMakerLight (https://github.com/AgreementMakerLight/AML-Project).
 
-<img width="602" alt="venn_ontology_mapping" src="https://user-images.githubusercontent.com/82646763/115011419-e47fa200-9eae-11eb-8839-280ed2bc574d.png">
+<img width="729" alt="Venn_Ontologies" src="https://user-images.githubusercontent.com/82646763/120933479-a8243180-c6fa-11eb-9ceb-7bfe6bef1061.png">
 
 Since an evaluation showed that Schema.org is best suited for the purposes of this master thesis and provides sufficient descriptive resources to describe all product attributes, this vocabulary was used exclusively in this project.
 
@@ -44,10 +44,10 @@ Since it was noticed that the product category was missing in the Amazon Electro
 In order to assemble a training dataset for product classification that has the highest possible variance and no unbalanced classes, clustering was performed beforehand. For this, the KMeans algorithm was applied in several iterations - until the clusters were homogeneous enough. Then, from each cluster, random examples were inserted into the training dataset.
 
 The algoithms achieved the following accuracies and run times: 
+<img width="813" alt="results_table" src="https://user-images.githubusercontent.com/82646763/120933603-2385e300-c6fb-11eb-8691-f2a33589a3f7.png">
 
 Since the accuracy was higher for Support Vector Classification, the model formed in this process was applied to the entire dataset to insert the product categories. 
 
--- insert table --
 
 ## RDF Produktontology Serializer
 
